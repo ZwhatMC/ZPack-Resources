@@ -1,0 +1,21 @@
+-- License for ZPack Vanilla+ Resources v0.1 (Pre-Release) --
+Created by Zwhat (https://github.com/ZwhatMC)
+
+
+Licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+https://creativecommons.org/licenses/by-nc/4.0/
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — Credit "Zwhat, creator of ZPack Vanilla+ Resources" and include a link to the license.
+- No additional restrictions — Don’t apply legal terms or technological measures that restrict others.
+- NonCommercial — You may not use the material for commercial purposes.
+
+If changes are made, please clearly state so.
+
+
+-- 'LICENSE.txt' v0.1 --
+
