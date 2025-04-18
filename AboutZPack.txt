@@ -1,4 +1,4 @@
--- About ZPack Vanilla+ Resources v0.1 (Pre-Release) --
+-- About ZPack Vanilla+ Resources v0.2 (Pre-Release) --
 
 This pack is for Minecraft: Java Edition (1.21.5)
 
@@ -16,11 +16,10 @@ All Features;
 		Beetroots, carrots, and potatoes can only be seen when fully grown.
 		Oxidisation is removed from all copper ore blocks.
 		Destroy stages now form a 'Z' instead of cracks.
-	
 	Entity:
 		Creeper texture is now derived from layered Acacia leaves, instead of the old oak leaves.
-	
 	GUI\Sprites:
+		Experience bar sprites have brown outlines, similar to bottle 'o' enchanting.
 		Container slots show square armour, and a rectangular shield.
 		Armour and heart sprite backgrounds are 70% transparent.
 		Crafting table and furnace recipe filters are 2D.
@@ -28,15 +27,20 @@ All Features;
 		Hunger sprites are based on golden carrots.
 		Attack indicators are based on netherite.
 		Armour sprites are based on netherite.
-		
 	Items:
 		Armour items are squarer, to match the worn armour models.
 		Oxidisation is removed from raw copper.
-	
 	Mob Effects:
 		Mining fatigue is a broken netherite pickaxe, instead of a spoon.
 		Strength and weakness are based on netherite.
 		Haste is based on netherite.
 		
+Change-log (ZPack v0.20);
+	Added statistics menu tool icons.
+	Added experience bar progress.
+	Other fixes.
+	
+	Changes to LICENSE.txt, InstallationDetails.txt and README.md (README.txt) 
+		
 
--- 'AboutZPack.txt' v0.1 --
+-- 'AboutZPack.txt' v0.2 --

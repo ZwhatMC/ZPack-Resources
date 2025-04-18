@@ -1,5 +1,5 @@
 -- License for ZPack Vanilla+ Resources v0.1 (Pre-Release) --
-Created by Zwhat (https://github.com/ZwhatMC)
+ZPack Vanilla+ Resources, created by 'Zwhat' (https://github.com/ZwhatMC)
 
 
 Licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
@@ -17,5 +17,5 @@ Under the following terms:
 If changes are made, please clearly state so.
 
 
--- 'LICENSE.txt' v0.1 --
+-- 'LICENSE.txt' v0.2 --
 

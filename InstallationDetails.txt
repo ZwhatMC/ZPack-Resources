@@ -6,7 +6,7 @@ Installation may vary slightly, but usually, this is how it goes.
 
 1. Extract and cut the 'ZPack' folder from your Downloads folder.
 2. Open Minecraft: Java Edition, with whichever launcher you use.
-3. Go to "Options", "Resource Packs", and "Open Pack Folder"
+3. Go to "Options", "Resource Packs", then "Open Pack Folder"
 4. A file browser window will appear.
 5. Paste the 'ZPack' folder here.
 6. Close the file browser window, and go back to Minecraft.
@@ -15,4 +15,4 @@ Installation may vary slightly, but usually, this is how it goes.
 8. Done!
 
 
--- 'InstallationDetails.txt' v0.1 --
+-- 'InstallationDetails.txt' v0.2 --
