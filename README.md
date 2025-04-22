@@ -1,4 +1,4 @@
--- README for ZPack Vanilla+ Resources v0.2 (Pre-Release) --
+-- README for ZPack Vanilla+ Resources v0.3 (Pre-Release) --
 
 
 For convenience, the README has been split into two files:
@@ -16,4 +16,4 @@ Here are some in-game images.
 ![Generic tools now netherite (2)](https://raw.githubusercontent.com/ZwhatMC/readme.images/master/ZPack-Resources/statisticsNetherite.png)
 
 
--- 'README' v0.2 --
+-- 'README' v0.3 --

@@ -35,12 +35,11 @@ All Features;
 		Strength and weakness are based on netherite.
 		Haste is based on netherite.
 		
-Change-log (ZPack v0.20);
-	Added statistics menu tool icons.
-	Added experience bar progress.
-	Other fixes.
+Change-log (ZPack v0.30);
+	Changed shading on destroy stages.
+	Fixed copper ores.
 	
-	Changes to LICENSE.txt, InstallationDetails.txt and README.md (README.txt) 
+	Updated to v0.3.
 		
 
--- 'AboutZPack.txt' v0.2 --
+-- 'AboutZPack.txt' v0.3 --
