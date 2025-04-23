@@ -1,11 +1,10 @@
--- About ZPack Vanilla+ Resources v0.2 (Pre-Release) --
+-- About ZPack Vanilla+ Resources (Pre-Release) --
 
 This pack is for Minecraft: Java Edition (1.21.5)
 
 Main Features;
 	Oxidisation is removed from raw copper and copper ores. (Clean Beans indeed.)
 	Instances of generic tools/armour are replaced with netherite ones.
-	Armour items are more square.
 	
 	Other little tweaks, like golden carrots for hunger, or leafy Creepers.
 	Many other small but nice changes, all listed below.
@@ -35,11 +34,11 @@ All Features;
 		Strength and weakness are based on netherite.
 		Haste is based on netherite.
 		
-Change-log (ZPack v0.30);
-	Changed shading on destroy stages.
-	Fixed copper ores.
+Change-log;
+	Fixed copper ores. (Hopefully the final time)
+	Updates to readme.images/ZPack-Resources
 	
-	Updated to v0.3.
+	Updated to v0.31.
 		
 
--- 'AboutZPack.txt' v0.3 --
+-- 'AboutZPack.txt' v0.31 --

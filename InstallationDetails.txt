@@ -4,7 +4,7 @@
 The structure used in this resource pack will only work for Minecraft: Java Edition (1.21.5)
 Installation may vary slightly, but usually, this is how it goes.
 
-1. Extract and cut the 'ZPack' folder from your Downloads folder.
+1. Extract and cut the 'ZPack.vX.xx' folder from your Downloads folder.
 2. Open Minecraft: Java Edition, with whichever launcher you use.
 3. Go to "Options", "Resource Packs", then "Open Pack Folder"
 4. A file browser window will appear.
@@ -15,4 +15,4 @@ Installation may vary slightly, but usually, this is how it goes.
 8. Done!
 
 
--- 'InstallationDetails.txt' v0.2 --
+-- 'InstallationDetails.txt' v3 for ZPR v0.31 --

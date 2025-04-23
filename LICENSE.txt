@@ -1,4 +1,4 @@
--- License for ZPack Vanilla+ Resources v0.1 (Pre-Release) --
+-- License for ZPack Vanilla+ Resources (Pre-Release) --
 ZPack Vanilla+ Resources, created by 'Zwhat' (https://github.com/ZwhatMC)
 
 
@@ -17,5 +17,5 @@ Under the following terms:
 If changes are made, please clearly state so.
 
 
--- 'LICENSE.txt' v0.2 --
+-- 'LICENSE.txt' v3 for ZPR v0.31 --
 
