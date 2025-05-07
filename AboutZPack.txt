@@ -9,36 +9,49 @@ Main Features;
 	Other little tweaks, like golden carrots for hunger, or leafy Creepers.
 	Many other small but nice changes, all listed below.
 
-All Features;
+Every Feature;
 
 	Blocks:
-		Beetroots, carrots, and potatoes can only be seen when fully grown.
+		Beetroots, carrots, and potatoes non-green pixels can only be seen when fully grown.
 		Oxidisation is removed from all copper ore blocks.
-		Destroy stages now form a 'Z' instead of cracks.
+		Pebbles are removed from dirt and grass blocks
+		Destroy stages form a 'Z'.
+	
 	Entity:
-		Creeper texture is now derived from layered Acacia leaves, instead of the old oak leaves.
+		Creeper texture is derived from Acacia leaves.
+	
 	GUI\Sprites:
-		Experience bar sprites have brown outlines, similar to bottle 'o' enchanting.
-		Container slots show square armour, and a rectangular shield.
-		Armour and heart sprite backgrounds are 70% transparent.
+		Armour and heart sprite backgrounds are only 30% opaque.
+		Armour slots (along with the shield) are squarer.
 		Crafting table and furnace recipe filters are 2D.
+		Experience bar HUD elements have brown outlines.
 		Heart sprites are smoothed and more consistent.
 		Hunger sprites are based on golden carrots.
 		Attack indicators are based on netherite.
 		Armour sprites are based on netherite.
+	
 	Items:
-		Armour items are squarer, to match the worn armour models.
 		Oxidisation is removed from raw copper.
+		Armour items are squarer.
+		Elytra is squarer.
+	
 	Mob Effects:
-		Mining fatigue is a broken netherite pickaxe, instead of a spoon.
 		Strength and weakness are based on netherite.
-		Haste is based on netherite.
+		Mining fatigue is a broken netherite pickaxe.
+		Haste is a netherite pickaxe.
 		
 Change-log;
-	Fixed copper ores. (Hopefully the final time)
-	Updates to readme.images/ZPack-Resources
+	- Modified and added to pack.png
+	- Added dirt.png and grass_block_side.png	
+	- Updated description in pack.mcmeta
+	- Changed README.md
+	- Added every axe, hoe, sword, shovel, and pickaxe.
+	- Added elytra.png and elytra_broken.png
 	
-	Updated to v0.31.
+	Updated to v0.32.
 		
+Thank you for using my pack. (And for reading)
+	- Zwhat
 
--- 'AboutZPack.txt' v0.31 --
+
+-- 'AboutZPack.txt' v0.32 --
