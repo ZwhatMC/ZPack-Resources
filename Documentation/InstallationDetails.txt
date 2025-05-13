@@ -1,0 +1,19 @@
+-- How to install ZPack Vanilla+ Resources (Pre-Release, v0.33) --
+
+
+Note: This resource pack will only work in Minecraft: Java Edition.
+Installation can vary slightly, but usually, this is how it goes.
+
+1. Cut the downloaded 'ZPack.v0.xx.zip' file from your Downloads folder.
+2. Open Minecraft: Java Edition, with whichever launcher you use.
+3. Go to "Options", "Resource Packs", then click "Open Pack Folder"
+4. A file browser window will appear.
+5. Paste the file that you previously cut into this window.
+[Optional] Unzip the file to hide the .zip extension in-game.
+6. Close the file browser window, and go back to Minecraft.
+7. Press the right arrow on 'ZPack' to enable the pack globally.
+
+8. Done!
+
+
+-- 'InstallationDetails.txt' v5 for ZPack Vanilla+ Resources (Pre-Release) --

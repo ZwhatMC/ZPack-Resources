@@ -1,11 +1,12 @@
--- README for ZPack Vanilla+ Resources (Pre-Release) --
+-- README for ZPack Vanilla+ Resources (Pre-Release, v0.33) --
 
 
 Find other information here:
-- AboutZPack.txt -- Full feature list & changelog.
-- InstallationDetails.txt -- How to install the pack.
-- LICENSE.txt -- License.
 
+LICENSE.txt -- License.
+[Documentation/]
+	InstallationDetails.txt -- How to install the pack.
+	AboutZPack.txt -- Full feature list & changelog.
 
 
 ![Hotbar](https://raw.githubusercontent.com/ZwhatMC/readme.images/master/ZPack-Resources/hotbar.png)
@@ -16,4 +17,4 @@ Find other information here:
 ![Armour and tools](https://raw.githubusercontent.com/ZwhatMC/readme.images/master/ZPack-Resources/armourAndTools.png)
 
 
--- 'README.md' v4 for ZPack v0.32 --
+-- 'README.md' v5 for ZPack Vanilla+ Resources (v0.33) --

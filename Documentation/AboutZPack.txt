@@ -1,0 +1,66 @@
+-- About ZPack Vanilla+ Resources (Pre-Release, v0.33) --
+
+This pack is for Minecraft: Java Edition (1.21.5)
+Please note that this pack is incomplete, and anything may change sometime in the future.
+
+Main Features:
+	Instances of generic tools/armour are replaced with netherite ones.
+	Oxidisation is removed from raw copper and copper ores.
+	Armour items are squarer.
+	
+	Other little tweaks, like golden carrots for hunger, leafy Creepers, and smoother tools.
+	Many other small but nice changes. Every change is listed below.
+
+Every Feature:
+
+	Blocks:
+		Beetroots', carrots', and potatoes' non-green pixels can only be seen when fully grown.
+		Oxidisation is removed from all copper ore blocks.
+		Destroy stages form a lightning bolt shaped 'Z'.
+		Pebbles are removed from dirt and grass.
+	
+	Entity:
+		Creeper is leafy and darker.
+	
+	GUI:
+		Armour and heart sprite backgrounds are translucent
+		Crafting table and furnace recipe filters are 2D.
+		Experience bar HUD elements have brown outlines.
+		Heart sprites are smoothed and more consistent.
+		Armour HUD sprites are netherite chestplates.
+		Shield slot is based on the shield model.
+		Attack indicators are netherite swords.
+		Hunger sprites are golden carrots.
+		Armour slots are squarer.
+	
+	Items:
+		Mace's breeze rod is piercing all the way through the heavy core.
+		Oxidisation is removed from raw copper.
+		Armour items are squarer.
+		Tools are smoother.
+		Elytra is squarer.
+ 		Leather is darker.
+	
+	Mob Effects:
+		Mining fatigue is a broken netherite pickaxe.
+		Weakness is a broken netherite sword.
+		Strength is a netherite sword.
+		Haste is a netherite pickaxe.
+		
+Changelog;
+	- Partially reverted previous modifications to pack.png
+	- Modified many of the tool textures
+	- Added leather.png
+	- Added mace.png
+	- Modified description in pack.mcmeta
+	- Added stick.png
+	- Added carrot_on_a_stick.png
+	- Added warped_fungus_on_a_stick.png
+	
+	Updated to v0.33.
+		
+Thank you for reading, I hope you enjoy the pack.
+	- ZwhatMC
+
+
+-- 'AboutZPack.txt' (v0.33) for ZPack Vanilla+ Resources (Pre-Release) --
