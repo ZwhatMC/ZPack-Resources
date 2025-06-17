@@ -1,0 +1,17 @@
+-- The technical details of ZPack Vanilla+ Resources (Pre-Release) --
+
+
+Pack format: 55
+Recommended Minecraft Version: Java 1.21.6
+Custom Assets: Textures
+Texture Asset Coverage (Folders): block, entity, gui, item, mob_effect
+Texture Editor: GNU Image Manipulation Program
+Texture Colour Space: GIMP sRGB (non-linear)
+Texture File Format: ".PNG"
+Texture Resolution: 16*16
+Non-Vanilla Graphic Engine Compatibility: Unsupported, this functionality is unsupported and may break at any time.
+Intent: To smooth over and make vanilla consistent. Hence the 'Vanilla+' part of the name.
+Pre-Release Versioning: 0.Xx increases by 0.01 for each version, and may end up at 0.99.
+Release Versioning: 1.Xx increases by 0.01 for a minor release and round up to nearest 1.X for major release
+
+-- 'TechnicalDetails.txt' v2 for ZPack Vanilla+ Resources (Pre-Release, v0.34) --
