@@ -1,0 +1,57 @@
+-- About ZPack Vanilla Plus (Pre-Release, v0.35) --
+
+
+Your vanilla, better than ever!
+This pack is for Minecraft: Java Edition (1.21.7)
+
+General feature list:
+
+	Highlights:
+		Raw copper + ores no longer appear oxidised.
+		Creeper is based on a current leaf texture.
+		Generic tools and armour are replaced with netherite ones (Armour bar, effects etc.)
+		Food bar sprites are golden carrots instead of generic meat shanks.
+		Leather + items made of leather are a consistently dark colour.
+		Armour items are square to match the models.
+		
+	
+	Blocks:
+		Copper ores + raw copper block have oxidisation removed
+		Beets, carrots, and potatoes vegetable coloured pixels won't show until fully grown.
+		
+	Mobs:
+		Creeper uses a more modern leaf texture as its base.
+		Camel, pig, and strider saddles are darker.
+		
+	Graphical UI:
+		Tool, weapon, and armour slots shapes with the item textures in this pack.
+		Shield slot is rectangular.
+		Heart textures are smoother and more consistent.
+		Armour heads-up sprites are based on the netherite chestplate.
+		Experience bar heads-up sprites are based on the Bottle o enchanting.
+		Food heads-up sprites are based on the golden carrot.
+		Hot-bar attack indicator heads-up sprites are based on the netherite sword.
+		Recipe book filters are based on 2 dimensional crafting tables and furnaces.
+		Statistics for "Block mined" and "Item broken" are based on the netherite pickaxe and netherite shovel respectively.
+		
+	Items:
+		Armour and elytra items are squarer.
+		Tool and weapon items are smoother.
+		Leather item is darker.
+		Mace's breeze rod sticks through the heavy core.
+		Raw copper has its oxidisation removed.
+		
+	Status Effects:
+		Weakness and strength effects are based on the netherite sword.
+		Mining fatigue and haste are based on the netherite pickaxe.
+
+Changelog:
+	Refreshed many textures.
+	Updated documentation format.
+	Removed some textures.
+	Updated pack image.
+	Updated pack description.
+	Updated to v0.35: The Fresh Start update!
+	
+	
+-- "Information (Version 1)" for ZPack Vanilla Plus (Pre-Release) --

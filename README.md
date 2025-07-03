@@ -4,17 +4,15 @@
 Find other information here:
 
     LICENSE.txt -- License.
-
-	Documentation / InstallationDetails.txt -- How to install the pack.
-	Documentation / AboutZPack.txt -- Full feature list & changelog.
+    Info.txt -- Feature list and changelog
 
 
 ![Hotbar](https://raw.githubusercontent.com/ZwhatMC/readme.images/master/ZPack-Resources/hotbar.png)
 ![Copper](https://raw.githubusercontent.com/ZwhatMC/readme.images/master/ZPack-Resources/copper.png)
 ![Creeper](https://raw.githubusercontent.com/ZwhatMC/readme.images/master/ZPack-Resources/creeper.png)
-![Mob effects tools](https://raw.githubusercontent.com/ZwhatMC/readme.images/master/ZPack-Resources/netherite1.png)
-![Statistics tools](https://raw.githubusercontent.com/ZwhatMC/readme.images/master/ZPack-Resources/netherite2.png)
-![Armour and tools](https://raw.githubusercontent.com/ZwhatMC/readme.images/master/ZPack-Resources/armourAndTools.png)
+![Status effects](https://raw.githubusercontent.com/ZwhatMC/readme.images/master/ZPack-Resources/netherite1.png)
+![Statistics](https://raw.githubusercontent.com/ZwhatMC/readme.images/master/ZPack-Resources/netherite2.png)
+![Armour and tool items](https://raw.githubusercontent.com/ZwhatMC/readme.images/master/ZPack-Resources/armourAndTools.png)
 
 
--- 'README.md' v6 for ZPack Vanilla+ Resources (Pre-Release, v0.34) --
+-- 'README.md' v7 for ZPack Vanilla+ Resources (Pre-Release, v0.35) --
