@@ -2,6 +2,7 @@
 
 
 Your vanilla, better than ever!
+--------------------------------------------------
 This texture pack is for Minecraft: Java Edition (1.21.7)
 
 General feature list:
@@ -13,7 +14,7 @@ General feature list:
 		Creeper is based on a current leaf texture.
 		Armour items are squarer.
 		Leather item is darker.
-		
+
 	
 	Blocks:
 		Beets, carrots, and potatoes vegetable coloured pixels won't show until fully grown.
@@ -56,6 +57,7 @@ Changelog:
 	Added fishing_rod_cast.png.
 	Updated every wooden, stone, iron, gold, and diamond tool and weapon.
 	Updated experience_bar_progress.png.
+	--------------------------------------------------
 	Updated to v0.36!
 	
 	
