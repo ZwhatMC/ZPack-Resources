@@ -47,18 +47,12 @@ General feature list:
 		Weakness and strength effects are based on the netherite sword.
 
 Changelog:
-	Updated Info.txt file name.
-	Updated Information.txt structure and formatting.
-	Overwrote leather.png.
-	Added stick.png.
-	Added carrot_on_a_stick.png.
-	Added warped_fungus_on_a_stick.png.
-	Added fishing_rod.png.
-	Added fishing_rod_cast.png.
-	Updated every wooden, stone, iron, gold, and diamond tool and weapon.
-	Updated experience_bar_progress.png.
+	Removed saddle.png.
+	Removed saddle.png.
+	Removed saddle.png.
+	Removed saddle.png.
 	--------------------------------------------------
-	Updated to v0.36!
+	Updated to v0.37!
 	
 	
 -- Information (Version 2) for ZPack Vanilla Plus (Pre-Release) --
