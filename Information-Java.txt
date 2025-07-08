@@ -1,0 +1,57 @@
+-- Information for ZPack Vanilla Plus JE (Pre-Release, v0.38) --
+
+
+Your vanilla, better than ever!
+--------------------------------------------------
+This texture pack is for Minecraft: Java Edition, 1.21.7.
+
+General feature list:
+
+	Highlight Features:
+		Generic UI tool and armour sprites are replaced with netherite ones (Armour bar, status effects, etc.)
+		Food bar sprites are golden carrots instead of generic meat shanks.
+		Raw copper item/block + copper ores are no longer oxidised.
+		Creeper is based on a modern leaf texture.
+		Armour items are squarer.
+		Leather item is darker.
+
+	
+	Blocks:
+		Beetroots, carrots, and potatoes vegetable coloured pixels won't show until fully grown.
+		Copper ores + raw copper block have oxidisation removed
+		
+	Mobs:
+		Creeper uses a modern leaf texture as its base.
+		
+	Graphical UI:
+		Armour heads-up sprites are based on the netherite chestplate.
+		Experience bar heads-up sprites are based on the Bottle o enchanting.
+		Food heads-up sprites are based on the golden carrot.
+		Heart textures are smoother and more consistent.
+		Hot-bar attack indicator heads-up sprites are based on the netherite sword.
+		Recipe book filters are based on 2 dimensional crafting tables and furnaces.
+		Shield slot is rectangular.
+		Statistic sprite for "Block mined" is based on the netherite pickaxe.
+		Statistic sprite for "Item broken" is based on the netherite shovel.
+		Tool, weapon, and armour slots shapes align with the item textures in this pack.
+		
+	Items:
+		Armour and elytra items are squarer.
+		Leather item is darker.
+		Mace's breeze rod sticks through the heavy core.
+		Raw copper has its oxidisation removed.
+		Tool and weapon items are smoother.
+		
+	Status Effects:
+		Mining fatigue and haste are based on the netherite pickaxe.
+		Weakness and strength effects are based on the netherite sword.
+
+Changelog:
+	Updated leather_boots_overlay.png.
+	Updated creeper.png.
+	Added ZPack-Bedrock.
+	--------------------------------------------------
+	Updated to v0.38!
+	
+	
+-- Information-Java (Version 3) for ZPack Vanilla Plus Java (Pre-Release) --

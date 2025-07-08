@@ -1,6 +1,7 @@
--- License for ZPack Vanilla+ Resources (Pre-Release) --
+-- License for ZPack Vanilla Plus (Pre-Release) --
 
-ZPack Vanilla+ Resources, created by 'Zwhat' (https://github.com/ZwhatMC)
+
+ZPack Vanilla Plus, created by 'Zwhat' (https://github.com/ZwhatMC)
 
 
 Licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
@@ -11,12 +12,12 @@ You are free to:
 - Adapt - remix, transform, and build upon the material
 
 Under the following terms:
-- Attribution - Credit "Zwhat, creator of ZPack Vanilla+ Resources" and include a link to the license.
+- Attribution - Credit "Zwhat, creator of ZPack Vanilla Plus" and include a link to the license.
 - No additional restrictions - Don’t apply legal terms or technological measures that restrict others.
 - NonCommercial - You may not use the material for commercial purposes.
 
 If changes are made, please clearly state so.
 
 
--- 'LICENSE.txt' v6 for ZPack Vanilla+ Resources (Pre-Release) --
+-- 'LICENSE.txt' v7 for ZPack Vanilla Plus (Pre-Release) --
 

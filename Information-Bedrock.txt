@@ -1,0 +1,23 @@
+-- Information for ZPack Vanilla Plus BE (Pre-Release, v38a) --
+
+
+Your vanilla, better than ever!
+--------------------------------------------------
+This texture pack is for Minecraft: Bedrock Edition, 1.21.93.1.
+Compatible with Vibrant Visuals.
+
+Highlight Features:
+	Generic UI tool and armour sprites are replaced with netherite ones (Armour bar, status effects, etc.)
+	Food bar sprites are golden carrots instead of generic meat shanks.
+	Creeper is based on a modern leaf texture.
+	Raw copper + ores are no longer oxidised.
+	Armour items are squarer.
+	Leather item is darker.
+
+Changelog:
+	Added ZPack-Bedrock.
+	--------------------------------------------------
+	Updated to v38a!
+	
+	
+-- Information-Bedrock (Version 1) for ZPack Vanilla Plus Bedrock (Pre-Release) --

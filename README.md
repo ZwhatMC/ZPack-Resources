@@ -1,13 +1,14 @@
--- README for ZPack Vanilla+ Resources (Pre-Release, v0.37) --
+-- ReadMe for ZPack Vanilla Plus (Pre-Release, v0.38 and v38a) --
 
 
 Find other information here:
 
     LICENSE.txt -- License.
-    Info.txt -- Feature list and changelog
+    Information-Java.txt -- Feature list and changelog for Java.
+	Information-Bedrock.txt -- Highlight list and changelog for Bedrock.
 
 
 
 ![Texture Sheet, PNG](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/spriteSheet/ZPP-TextureSheet.png)
 
--- 'README.md' v8 for ZPack Vanilla+ Resources (Pre-Release) --
+-- 'README.md' v9 for ZPack Vanilla Plus (Pre-Release) --
