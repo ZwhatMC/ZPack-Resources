@@ -1,9 +1,9 @@
--- Information for ZPack Vanilla Plus BE (Pre-Release, v38a) --
+-- Information for ZPack Vanilla Plus (Pre-Release, Bedrock) --
 
 
 Your vanilla, better than ever!
 --------------------------------------------------
-This texture pack is for Minecraft: Bedrock Edition, 1.21.93.1.
+This texture pack is for Minecraft: Bedrock Edition, (1.21.90+)
 Compatible with Vibrant Visuals.
 
 Highlight Features:
@@ -15,9 +15,11 @@ Highlight Features:
 	Leather item is darker.
 
 Changelog:
-	Added ZPack-Bedrock.
+	Added creeper skull.
+	Added creeper spawn egg.
+	Updated status effects sprites.
 	--------------------------------------------------
-	Updated to v38a!
+	Updated to v39a!
 	
 	
--- Information-Bedrock (Version 1) for ZPack Vanilla Plus Bedrock (Pre-Release) --
+-- Information-Bedrock (Version 2) for ZPack Vanilla Plus: Bedrock Edition (Pre-Release) --

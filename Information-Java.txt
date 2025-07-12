@@ -1,9 +1,9 @@
--- Information for ZPack Vanilla Plus JE (Pre-Release, v0.38) --
+-- Information for ZPack Vanilla Plus (Pre-Release, Java) --
 
 
 Your vanilla, better than ever!
 --------------------------------------------------
-This texture pack is for Minecraft: Java Edition, 1.21.7.
+This texture pack is for Minecraft: Java Edition, (1.21.7+)
 
 General feature list:
 
@@ -37,6 +37,7 @@ General feature list:
 		
 	Items:
 		Armour and elytra items are squarer.
+		Creeper spawn egg is based on a modern leaf texture.
 		Leather item is darker.
 		Mace's breeze rod sticks through the heavy core.
 		Raw copper has its oxidisation removed.
@@ -47,11 +48,12 @@ General feature list:
 		Weakness and strength effects are based on the netherite sword.
 
 Changelog:
-	Updated leather_boots_overlay.png.
-	Updated creeper.png.
-	Added ZPack-Bedrock.
+	Added creeper spawn egg.
+	Updated status effects sprites.
+	Updated statistics sprites.
+	Updated hotbar attack indicator progress sprite.
 	--------------------------------------------------
-	Updated to v0.38!
+	Updated to v0.39!
 	
 	
--- Information-Java (Version 3) for ZPack Vanilla Plus Java (Pre-Release) --
+-- Information-Java (Version 4) for ZPack Vanilla Plus: Java Edition (Pre-Release) --

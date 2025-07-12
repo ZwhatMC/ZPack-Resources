@@ -1,0 +1,29 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   Information-Bedrock.txt
+	modified:   Information-Java.txt
+	modified:   README.md
+	modified:   ZPack-Bedrock/manifest.json
+	new file:   ZPack-Bedrock/textures/entity/skulls/creeper.png
+	new file:   ZPack-Bedrock/textures/items/egg_creeper.png
+	new file:   ZPack-Bedrock/textures/items/spawn_egg_creeper.png
+	modified:   ZPack-Bedrock/textures/ui/mining_fatigue_effect.png
+	modified:   ZPack-Bedrock/textures/ui/strength_effect.png
+	modified:   ZPack-Bedrock/textures/ui/weakness_effect.png
+	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/hud/hotbar_attack_indicator_progress.png
+	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/statistics/block_mined.png
+	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/statistics/item_broken.png
+	new file:   ZPack-Java/assets/minecraft/textures/item/creeper_spawn_egg.png
+	modified:   ZPack-Java/assets/minecraft/textures/mob_effect/mining_fatigue.png
+	modified:   ZPack-Java/assets/minecraft/textures/mob_effect/strength.png
+	modified:   ZPack-Java/assets/minecraft/textures/mob_effect/weakness.png
+	new file:   gitlog.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   gitlog.txt
+
