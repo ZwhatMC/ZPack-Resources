@@ -1,4 +1,4 @@
--- License for ZPack Vanilla Plus (Pre-Release) --
+-- License for ZPack Vanilla Plus (Pre-Release, Bedrock & Java) --
 
 
 ZPack Vanilla Plus, created by 'Zwhat' (https://github.com/ZwhatMC)
@@ -19,5 +19,5 @@ Under the following terms:
 If changes are made, please clearly state so.
 
 
--- 'LICENSE.txt' v7 for ZPack Vanilla Plus (Pre-Release) --
+-- License (Revision 8) for ZPack Vanilla Plus (Pre-Release, Bedrock & Java) --
 

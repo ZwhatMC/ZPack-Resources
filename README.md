@@ -1,4 +1,4 @@
--- ReadMe for ZPack Vanilla Plus (Pre-Release, Java & Bedrock) --
+-- ReadMe for ZPack Vanilla Plus (Pre-Release, Bedrock & Java) --
 
 
 Find other information here:
@@ -13,4 +13,4 @@ Find other information here:
 
 ![Texture Sheet](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/spriteSheet/ZPP-TextureSheet.png)
 
--- 'README.md' (Version 10) for ZPack Vanilla Plus: Bedrock & Java (Pre-Release) --
+-- 'README.md' (Revision 11) for ZPack Vanilla Plus: Bedrock & Java (Pre-Release) --

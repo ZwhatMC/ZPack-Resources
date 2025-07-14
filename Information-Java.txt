@@ -1,4 +1,4 @@
--- Information for ZPack Vanilla Plus (Pre-Release, Java) --
+-- Information for ZPack Vanilla Plus (Pre-Release, Java Edition) --
 
 
 Your vanilla, better than ever!
@@ -7,14 +7,14 @@ This texture pack is for Minecraft: Java Edition, (1.21.7+)
 
 General feature list:
 
-	Highlight Features:
-		Generic UI tool and armour sprites are replaced with netherite ones (Armour bar, status effects, etc.)
-		Food bar sprites are golden carrots instead of generic meat shanks.
-		Raw copper item/block + copper ores are no longer oxidised.
-		Creeper is based on a modern leaf texture.
-		Armour items are squarer.
-		Leather item is darker.
-
+Highlight Features:
+	Generic UI tool and armour sprites are replaced with netherite ones.
+	Food bar sprites are golden carrots instead of generic meat shanks.
+	Creeper is based on a modern leaf texture.
+	Raw copper + ores are no longer oxidised.
+	Musical records are circular.
+	Armour items are squarer.
+	Leather item is darker.
 	
 	Blocks:
 		Beetroots, carrots, and potatoes vegetable coloured pixels won't show until fully grown.
@@ -40,6 +40,7 @@ General feature list:
 		Creeper spawn egg is based on a modern leaf texture.
 		Leather item is darker.
 		Mace's breeze rod sticks through the heavy core.
+		Musical records are circular.
 		Raw copper has its oxidisation removed.
 		Tool and weapon items are smoother.
 		
@@ -48,12 +49,14 @@ General feature list:
 		Weakness and strength effects are based on the netherite sword.
 
 Changelog:
-	Added creeper spawn egg.
-	Updated status effects sprites.
-	Updated statistics sprites.
-	Updated hotbar attack indicator progress sprite.
+	Updated strength status effect.
+	Updated creeper.
+	Updated leather boots.
+	Updated leather boots overlay.
+	Added records, music discs, and 5 disc fragment.
+	Updated hotbar attack indicator progress.
 	--------------------------------------------------
-	Updated to v0.39!
+	Updated to v0.40!
 	
 	
--- Information-Java (Version 4) for ZPack Vanilla Plus: Java Edition (Pre-Release) --
+-- Information-Java (Revision 5) for ZPack Vanilla Plus: Java Edition (Pre-Release) --

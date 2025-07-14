@@ -1,25 +1,27 @@
--- Information for ZPack Vanilla Plus (Pre-Release, Bedrock) --
+-- Information for ZPack Vanilla Plus (Pre-Release, Bedrock Edition) --
 
 
 Your vanilla, better than ever!
 --------------------------------------------------
-This texture pack is for Minecraft: Bedrock Edition, (1.21.90+)
+This texture pack is for Minecraft: Bedrock Edition, (1.21.9x)
 Compatible with Vibrant Visuals.
 
 Highlight Features:
-	Generic UI tool and armour sprites are replaced with netherite ones (Armour bar, status effects, etc.)
+	Generic UI tool and armour sprites are replaced with netherite ones.
 	Food bar sprites are golden carrots instead of generic meat shanks.
 	Creeper is based on a modern leaf texture.
 	Raw copper + ores are no longer oxidised.
+	Musical records are circular.
 	Armour items are squarer.
 	Leather item is darker.
-
+	
 Changelog:
-	Added creeper skull.
-	Added creeper spawn egg.
-	Updated status effects sprites.
+	Updated strength status effect.
+	Updated creeper.
+	Updated creeper skull.
+	Added records, music discs, and 5 disc fragment.
 	--------------------------------------------------
-	Updated to v39a!
+	Updated to v40!
 	
 	
--- Information-Bedrock (Version 2) for ZPack Vanilla Plus: Bedrock Edition (Pre-Release) --
+-- Information-Bedrock (Revision 3) for ZPack Vanilla Plus: Bedrock Edition (Pre-Release) --
