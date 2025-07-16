@@ -4,10 +4,11 @@
 Find other information here:
 
     LICENSE.txt -- License.
-    Information-Java.txt -- Feature list and changelog for Java.
-	Information-Bedrock.txt -- Highlight list and changelog for Bedrock.
+    
+    Extras/Information-Java.txt -- Feature list and changelog for Java.
+	Extras/Information-Bedrock.txt -- Highlight list and changelog for Bedrock.
 	--------------------------------------------------
-	gitlog.txt -- An exact changelog, the output of  'git status'.
+	Extras/gitlog.txt -- An exact changelog.
 
 
 

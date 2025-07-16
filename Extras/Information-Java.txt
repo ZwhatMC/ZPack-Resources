@@ -10,9 +10,9 @@ General feature list:
 Highlight Features:
 	Generic UI tool and armour sprites are replaced with netherite ones.
 	Food bar sprites are golden carrots instead of generic meat shanks.
-	Creeper is based on a modern leaf texture.
+	Creeper + spawn egg is based on a modern leaf texture.
 	Raw copper + ores are no longer oxidised.
-	Musical records are circular.
+	Music records are circular.
 	Armour items are squarer.
 	Leather item is darker.
 	
@@ -36,27 +36,23 @@ Highlight Features:
 		Tool, weapon, and armour slots shapes align with the item textures in this pack.
 		
 	Items:
-		Armour and elytra items are squarer.
+		Armour and elytra item sprites are squarer.
 		Creeper spawn egg is based on a modern leaf texture.
 		Leather item is darker.
 		Mace's breeze rod sticks through the heavy core.
-		Musical records are circular.
+		Music records are circular.
 		Raw copper has its oxidisation removed.
-		Tool and weapon items are smoother.
+		Tool and weapon items are styled differently.
 		
 	Status Effects:
 		Mining fatigue and haste are based on the netherite pickaxe.
 		Weakness and strength effects are based on the netherite sword.
 
 Changelog:
-	Updated strength status effect.
-	Updated creeper.
-	Updated leather boots.
-	Updated leather boots overlay.
-	Added records, music discs, and 5 disc fragment.
-	Updated hotbar attack indicator progress.
+	Removed experience bar sprites.
+	Updated many textures.
 	--------------------------------------------------
-	Updated to v0.40!
+	Updated to version 0.41!
 	
 	
 -- Information-Java (Revision 5) for ZPack Vanilla Plus: Java Edition (Pre-Release) --
