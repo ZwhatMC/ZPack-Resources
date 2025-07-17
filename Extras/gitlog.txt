@@ -3,40 +3,9 @@ Your branch is up to date with 'origin/main'.
 
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
-	modified:   .gitignore
-	renamed:    Information-Bedrock.txt -> Extras/Information-Bedrock.txt
-	renamed:    Information-Java.txt -> Extras/Information-Java.txt
-	new file:   Extras/gitlog.txt
-	modified:   README.md
-	modified:   ZPack-Bedrock/manifest.json
-	modified:   ZPack-Bedrock/textures/items/disc_fragment_5.png
-	modified:   ZPack-Bedrock/textures/items/iron_helmet.png
-	modified:   ZPack-Bedrock/textures/items/netherite_pickaxe.png
-	modified:   ZPack-Bedrock/textures/items/record_5.png
-	modified:   ZPack-Bedrock/textures/items/record_cat.png
-	new file:   ZPack-Bedrock/textures/items/redstone_torch_on.png
-	modified:   ZPack-Bedrock/textures/ui/armor_empty.png
-	modified:   ZPack-Bedrock/textures/ui/armor_full.png
-	modified:   ZPack-Bedrock/textures/ui/armor_half.png
-	new file:   ZPack-Bedrock/textures/ui/icon_recipe_equipment.png
-	new file:   ZPack-Bedrock/textures/ui/icon_recipe_item.png
-	modified:   ZPack-Bedrock/textures/ui/mining_fatigue_effect.png
-	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/hud/armor_empty.png
-	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/hud/armor_full.png
-	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/hud/armor_half.png
-	deleted:    ZPack-Java/assets/minecraft/textures/gui/sprites/hud/experience_bar_background.png
-	deleted:    ZPack-Java/assets/minecraft/textures/gui/sprites/hud/experience_bar_progress.png
-	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/hud/heart/container_hardcore.png
-	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/statistics/block_mined.png
-	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/statistics/item_broken.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/disc_fragment_5.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/iron_helmet.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/music_disc_5.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/music_disc_cat.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/music_disc_chirp.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/netherite_pickaxe.png
-	modified:   ZPack-Java/assets/minecraft/textures/mob_effect/mining_fatigue.png
-	deleted:    gitlog.txt
+	modified:   Extras/Information-Bedrock.txt
+	modified:   Extras/gitlog.txt
+	renamed:    ZPack-Bedrock/textures/items/redstone_torch_on.png -> ZPack-Bedrock/textures/blocks/redstone_torch_on.png
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)

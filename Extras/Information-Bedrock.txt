@@ -17,11 +17,9 @@ Highlight Features:
 	Leather item is darker.
 	
 Changelog:
-	Updated many textures.
-	Added redstone torch.
-	Added recipe icons.
+	Fixed an issue with redstone torch.
 	--------------------------------------------------
-	Updated to version 41!
+	Updated to version 41a!
 	
 	
 -- Information-Bedrock (Revision 3) for ZPack Vanilla Plus: Bedrock Edition (Pre-Release) --
