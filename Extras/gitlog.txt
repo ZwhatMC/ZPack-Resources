@@ -4,8 +4,44 @@ Your branch is up to date with 'origin/main'.
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
 	modified:   Extras/Information-Bedrock.txt
+	modified:   Extras/Information-Java.txt
 	modified:   Extras/gitlog.txt
-	renamed:    ZPack-Bedrock/textures/items/redstone_torch_on.png -> ZPack-Bedrock/textures/blocks/redstone_torch_on.png
+	new file:   ZPack-Bedrock/textures/items/bed_brown.png
+	new file:   ZPack-Bedrock/textures/items/bed_cyan.png
+	new file:   ZPack-Bedrock/textures/items/bed_gray.png
+	new file:   ZPack-Bedrock/textures/items/bed_green.png
+	new file:   ZPack-Bedrock/textures/items/bed_light_blue.png
+	new file:   ZPack-Bedrock/textures/items/bed_magenta.png
+	new file:   ZPack-Bedrock/textures/items/bed_orange.png
+	new file:   ZPack-Bedrock/textures/items/bed_pink.png
+	new file:   ZPack-Bedrock/textures/items/bed_red.png
+	new file:   ZPack-Bedrock/textures/items/bed_silver.png
+	new file:   ZPack-Bedrock/textures/items/bed_white.png
+	new file:   ZPack-Bedrock/textures/items/bed_yellow.png
+	modified:   ZPack-Bedrock/textures/items/chainmail_helmet.png
+	modified:   ZPack-Bedrock/textures/items/diamond_helmet.png
+	renamed:    ZPack-Bedrock/textures/items/fishing_rod.png -> ZPack-Bedrock/textures/items/fishing_rod_uncast.png
+	modified:   ZPack-Bedrock/textures/items/gold_helmet.png
+	modified:   ZPack-Bedrock/textures/items/gold_shovel.png
+	modified:   ZPack-Bedrock/textures/items/iron_helmet.png
+	modified:   ZPack-Bedrock/textures/items/leather_helmet.tga
+	modified:   ZPack-Bedrock/textures/items/netherite_helmet.png
+	modified:   ZPack-Bedrock/textures/items/record_chirp.png
+	modified:   ZPack-Bedrock/textures/ui/hunger_effect_flash_full.png
+	modified:   ZPack-Bedrock/textures/ui/hunger_effect_flash_half.png
+	modified:   ZPack-Bedrock/textures/ui/hunger_effect_full.png
+	modified:   ZPack-Bedrock/textures/ui/hunger_effect_half.png
+	modified:   ZPack-Bedrock/textures/ui/icon_recipe_equipment.png
+	modified:   ZPack-Bedrock/textures/ui/icon_recipe_item.png
+	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/hud/food_full_hunger.png
+	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/hud/food_half_hunger.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/chainmail_helmet.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/diamond_helmet.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/golden_helmet.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/golden_shovel.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/iron_helmet.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/leather_helmet.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/netherite_helmet.png
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)

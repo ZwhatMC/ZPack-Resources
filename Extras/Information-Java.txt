@@ -49,10 +49,11 @@ Highlight Features:
 		Weakness and strength effects are based on the netherite sword.
 
 Changelog:
-	Removed experience bar sprites.
-	Updated many textures.
+	Updated gold shovel.
+	Updated helmets.
+	Updated hunger effected food sprites.
 	--------------------------------------------------
-	Updated to version 0.41!
+	Updated to version 0.42!
 	
 	
 -- Information-Java (Revision 5) for ZPack Vanilla Plus: Java Edition (Pre-Release) --

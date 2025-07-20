@@ -12,14 +12,21 @@ Highlight Features:
 	Creeper + spawn egg is based on a modern leaf texture.
 	Recipe tab icons use modern textures as a base.
 	Raw copper + ores are no longer oxidised.
+	Bed items match placed colour.
 	Music records are circular.
 	Armour items are squarer.
 	Leather item is darker.
 	
 Changelog:
-	Fixed an issue with redstone torch.
+	Updated gold shovel.
+	Added bed items (brown, cyan, gray, green, light blue, magenta, orange, pink, red, silver, white, yellow).
+	Fixed an issue with fishing rod uncast.
+	Updated helmets.
+	Updated recipe tab icons.
+	Updated chirp music record.
+	Updated hunger effected food sprites.
 	--------------------------------------------------
-	Updated to version 41a!
+	Updated to version 42!
 	
 	
 -- Information-Bedrock (Revision 3) for ZPack Vanilla Plus: Bedrock Edition (Pre-Release) --
