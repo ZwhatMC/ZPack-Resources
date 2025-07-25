@@ -18,15 +18,9 @@ Highlight Features:
 	Leather item is darker.
 	
 Changelog:
-	Updated gold shovel.
-	Added bed items (brown, cyan, gray, green, light blue, magenta, orange, pink, red, silver, white, yellow).
-	Fixed an issue with fishing rod uncast.
-	Updated helmets.
-	Updated recipe tab icons.
-	Updated chirp music record.
-	Updated hunger effected food sprites.
+	Fixed an issue with elytra_broken
 	--------------------------------------------------
-	Updated to version 42!
+	Updated to version 42a
 	
 	
 -- Information-Bedrock (Revision 3) for ZPack Vanilla Plus: Bedrock Edition (Pre-Release) --

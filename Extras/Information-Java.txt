@@ -15,38 +15,6 @@ Highlight Features:
 	Music records are circular.
 	Armour items are squarer.
 	Leather item is darker.
-	
-	Blocks:
-		Beetroots, carrots, and potatoes vegetable coloured pixels won't show until fully grown.
-		Copper ores + raw copper block have oxidisation removed
-		
-	Mobs:
-		Creeper uses a modern leaf texture as its base.
-		
-	Graphical UI:
-		Armour heads-up sprites are based on the netherite chestplate.
-		Experience bar heads-up sprites are based on the Bottle o enchanting.
-		Food heads-up sprites are based on the golden carrot.
-		Heart textures are smoother and more consistent.
-		Hot-bar attack indicator heads-up sprites are based on the netherite sword.
-		Recipe book filters are based on 2 dimensional crafting tables and furnaces.
-		Shield slot is rectangular.
-		Statistic sprite for "Block mined" is based on the netherite pickaxe.
-		Statistic sprite for "Item broken" is based on the netherite shovel.
-		Tool, weapon, and armour slots shapes align with the item textures in this pack.
-		
-	Items:
-		Armour and elytra item sprites are squarer.
-		Creeper spawn egg is based on a modern leaf texture.
-		Leather item is darker.
-		Mace's breeze rod sticks through the heavy core.
-		Music records are circular.
-		Raw copper has its oxidisation removed.
-		Tool and weapon items are styled differently.
-		
-	Status Effects:
-		Mining fatigue and haste are based on the netherite pickaxe.
-		Weakness and strength effects are based on the netherite sword.
 
 Changelog:
 	Updated gold shovel.
