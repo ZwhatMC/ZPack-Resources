@@ -6,8 +6,43 @@ Changes to be committed:
 	modified:   Extras/Information-Bedrock.txt
 	modified:   Extras/Information-Java.txt
 	modified:   Extras/gitlog.txt
+	modified:   LICENSE.txt
+	modified:   README.md
 	modified:   ZPack-Bedrock/manifest.json
-	renamed:    ZPack-Bedrock/textures/items/elytra_broken.png -> ZPack-Bedrock/textures/items/broken_elytra.png
+	new file:   ZPack-Bedrock/textures/.inactive/items/copper_axe.png
+	new file:   ZPack-Bedrock/textures/.inactive/items/copper_boots.png
+	new file:   ZPack-Bedrock/textures/.inactive/items/copper_chestplate.png
+	new file:   ZPack-Bedrock/textures/.inactive/items/copper_helmet.png
+	new file:   ZPack-Bedrock/textures/.inactive/items/copper_hoe.png
+	new file:   ZPack-Bedrock/textures/.inactive/items/copper_leggings.png
+	new file:   ZPack-Bedrock/textures/.inactive/items/copper_pickaxe.png
+	new file:   ZPack-Bedrock/textures/.inactive/items/copper_shovel.png
+	new file:   ZPack-Bedrock/textures/.inactive/items/copper_sword.png
+	modified:   ZPack-Bedrock/textures/items/bed_yellow.png
+	modified:   ZPack-Bedrock/textures/items/egg_creeper.png
+	modified:   ZPack-Bedrock/textures/items/iron_helmet.png
+	modified:   ZPack-Bedrock/textures/items/record_cat.png
+	modified:   ZPack-Bedrock/textures/items/spawn_egg_creeper.png
+	modified:   ZPack-Bedrock/textures/ui/hunger_background.png
+	modified:   ZPack-Bedrock/textures/ui/hunger_blink.png
+	modified:   ZPack-Bedrock/textures/ui/hunger_effect_background.png
+	modified:   ZPack-Bedrock/textures/ui/icon_recipe_equipment.png
+	deleted:    ZPack-Bedrock/textures/ui/icon_recipe_item.png
+	new file:   ZPack-Java/assets/minecraft/textures/.inactive/item/copper_axe.png
+	new file:   ZPack-Java/assets/minecraft/textures/.inactive/item/copper_boots.png
+	new file:   ZPack-Java/assets/minecraft/textures/.inactive/item/copper_chestplate.png
+	new file:   ZPack-Java/assets/minecraft/textures/.inactive/item/copper_helmet.png
+	new file:   ZPack-Java/assets/minecraft/textures/.inactive/item/copper_hoe.png
+	new file:   ZPack-Java/assets/minecraft/textures/.inactive/item/copper_leggings.png
+	new file:   ZPack-Java/assets/minecraft/textures/.inactive/item/copper_pickaxe.png
+	new file:   ZPack-Java/assets/minecraft/textures/.inactive/item/copper_shovel.png
+	new file:   ZPack-Java/assets/minecraft/textures/.inactive/item/copper_sword.png
+	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/hud/food_empty.png
+	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/hud/food_empty_hunger.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/creeper_spawn_egg.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/iron_helmet.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/music_disc_cat.png
+	deleted:    ZPack-Java/assets/minecraft/textures/item/prototype/protoCopperSet.png
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)

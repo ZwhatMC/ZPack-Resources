@@ -1,27 +1,29 @@
--- Information for ZPack Vanilla Plus (Pre-Release, Java Edition) --
+-- Information for ZPack Vanilla Plus Java (Pre-Release) --
 
 
 Your vanilla, better than ever!
 --------------------------------------------------
-This texture pack is for Minecraft: Java Edition, (1.21.7+)
-
-General feature list:
+This texture pack is for Minecraft: Java Edition, (1.21.8)
 
 Highlight Features:
 	Generic UI tool and armour sprites are replaced with netherite ones.
-	Food bar sprites are golden carrots instead of generic meat shanks.
+	Raw copper, copper ores, and raw copper block are unoxidised.
 	Creeper + spawn egg is based on a modern leaf texture.
-	Raw copper + ores are no longer oxidised.
+	Armour items are squarer to match worn models.
+	Hunger bar sprites are golden carrots.
 	Music records are circular.
-	Armour items are squarer.
-	Leather item is darker.
+	
+	Many other small but important changes - Coming soon to YouTube!
 
 Changelog:
-	Updated gold shovel.
-	Updated helmets.
-	Updated hunger effected food sprites.
+	Updated hunger background sprites
+	Updated internal and external documentation formats
+	Updated all naming conventions
+	Updated creeper spawn egg
+	Added copper tools and armour in preparation for the autumn drop
+	Updated music disc cat
 	--------------------------------------------------
-	Updated to version 0.42!
+	Updated to Version 043.0!
 	
 	
--- Information-Java (Revision 5) for ZPack Vanilla Plus: Java Edition (Pre-Release) --
+-- Information-Java (Revision 6) for ZPack Vanilla Plus: Java Edition (Pre-Release) --
