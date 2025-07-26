@@ -20,17 +20,8 @@ Bedrock Edition Exclusives:
 		
 Changelog:
 	Updated hunger background sprites
-	Updated internal and external documentation formats
-	Updated all naming conventions
-	Removed icon recipe item sprite
-	Updated yellow bed sprite
-	Updated iron helmet
-	Updated icon recipe equipment sprite
-	Updated creeper spawn egg, creeper egg
-	Added copper tools and armour in preparation for the autumn drop
-	Updated cat music disc
 	--------------------------------------------------
-	Updated to Version 043.0!
+	Updated to Version 043.1!
 	
 	
 -- Information-Bedrock (Revision 4) for ZPack Vanilla Plus: Bedrock Edition (Pre-Release) --

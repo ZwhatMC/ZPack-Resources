@@ -17,13 +17,8 @@ Highlight Features:
 
 Changelog:
 	Updated hunger background sprites
-	Updated internal and external documentation formats
-	Updated all naming conventions
-	Updated creeper spawn egg
-	Added copper tools and armour in preparation for the autumn drop
-	Updated music disc cat
 	--------------------------------------------------
-	Updated to Version 043.0!
+	Updated to Version 043.1!
 	
 	
 -- Information-Java (Revision 6) for ZPack Vanilla Plus: Java Edition (Pre-Release) --
