@@ -14,6 +14,11 @@ Find other information here:
 
 
 
-![Texture Sheet](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/spriteSheet/ZPP-TextureSheet.png)
+![Armour Sheet](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/Armour_Sheet.png)
+![Tool Sheet](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/Current/Tool_Sheet.png)
+![Disc Sheet](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/Current/Disc_Sheet.png)
+![GUI Sheet](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/Current/GUI_Sheet.png)
+![Misc Sheet](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/Current/Misc_Sheet.png)
+![Bed Sheet](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/Current/Bed_Sheet.png)
 
--- README (Revision 13) for ZPack Vanilla Plus --
+-- README (Revision 14) for ZPack Vanilla Plus --
