@@ -1,27 +1,29 @@
--- Information for ZPack Vanilla Plus Bedrock (Pre-Release) --
+-- Information for 'ZPack Vanilla Plus Bedrock' By ZwhatMC --
 
 
-Your vanilla, better than ever, compatible with Vibrant Visuals!
+Your vanilla, better than ever. Compatible with Vibrant Visuals!
 --------------------------------------------------
-This texture pack is for Minecraft: Bedrock Edition, (1.21.90+)
+This texture pack is for Minecraft: Bedrock Edition, (1.21.94.1)
 
 Highlight Features:
 	Hunger bar sprites are golden carrots.
 	Armour items are squarer to match worn models.
-	Generic UI & hud equipment sprites are replaced with netherite ones.
+	Generic UI & HUD equipment sprites are replaced with netherite ones.
 	Creeper + spawn egg are based on a modern leaf texture.
-	Music discs / records are circular.
-	Raw copper, copper ores, and raw copper block are unoxidised.
+	Music discs & records are circular.
+	Raw copper, copper ores, and raw copper block are unexposed.
 
-	Many other small, but very important changes.
+	Many other small, very important changes.
 
 Bedrock Edition Exclusives:
-	Bed items match placed colour.
+	Held bed items match placed colour.
 		
 Changelog:
-	Updated hunger background sprites
+	Moved copper equipment
+	Added [default, exposed, weathered, oxidised]; lightning rods
+	Updated [copper, iron, gold, diamond, netherite]; helmets
 	--------------------------------------------------
-	Updated to Version 043.1!
+	Updated to Version 044!
 	
 	
--- Information-Bedrock (Revision 4) for ZPack Vanilla Plus: Bedrock Edition (Pre-Release) --
+-- Information-Bedrock (Revision 5) for ZPack Vanilla Plus: Bedrock Edition --

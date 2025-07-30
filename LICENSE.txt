@@ -1,11 +1,9 @@
--- License for ZPack Vanilla Plus (Pre-Release) --
+-- License for 'ZPack Vanilla Plus' By ZwhatMC --
 
-
-ZPack Vanilla Plus, created by ZwhatMC.
 
 Found here:
-[https://github.com/ZwhatMC/ZPack-Resources]
-[https://github.com/ZwhatMC]
+The ZPack Vanilla Plus Repository on Github:	[https://github.com/ZwhatMC/ZPack-Resources]
+ZwhatMC on Github:							[https://github.com/ZwhatMC]
 
 
 Licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
@@ -23,4 +21,4 @@ Under the following terms:
 If changes are made, please clearly state so.
 
 
--- License (Revision 9) for ZPack Vanilla Plus (Pre-Release) --
+-- License (Revision 10) for ZPack Vanilla Plus --

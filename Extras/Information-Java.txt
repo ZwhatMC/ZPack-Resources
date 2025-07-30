@@ -1,4 +1,4 @@
--- Information for ZPack Vanilla Plus Java (Pre-Release) --
+-- Information for 'ZPack Vanilla Plus Java' By ZwhatMC --
 
 
 Your vanilla, better than ever!
@@ -6,19 +6,21 @@ Your vanilla, better than ever!
 This texture pack is for Minecraft: Java Edition, (1.21.8)
 
 Highlight Features:
-	Generic UI tool and armour sprites are replaced with netherite ones.
-	Raw copper, copper ores, and raw copper block are unoxidised.
-	Creeper + spawn egg is based on a modern leaf texture.
-	Armour items are squarer to match worn models.
 	Hunger bar sprites are golden carrots.
-	Music records are circular.
-	
-	Many other small but important changes - Coming soon to YouTube!
+	Armour items are squarer to match worn models.
+	Generic UI & HUD equipment sprites are replaced with netherite ones.
+	Creeper + spawn egg are based on a modern leaf texture.
+	Music discs & records are circular.
+	Raw copper, copper ores, and raw copper block are unexposed.
+
+	Many other small, very important changes.
 
 Changelog:
-	Updated hunger background sprites
-	--------------------------------------------------
-	Updated to Version 043.1!
+	Moved copper equipment
+	Added [default, exposed, weathered, oxidised]; lightning rods
+	Updated [copper, iron, gold, diamond, netherite]: helmets
+	----------------------------
+	Updated to Version 044!
 	
 	
--- Information-Java (Revision 6) for ZPack Vanilla Plus: Java Edition (Pre-Release) --
+-- Information-Java (Revision 7) for ZPack Vanilla Plus: Java Edition --

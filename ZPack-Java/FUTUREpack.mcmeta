@@ -1,6 +1,8 @@
 {
   "pack": {
     "pack_format": 64,
+    "min_format": 46.0,
+    "max_format": 65.0,
     "description": "Your vanilla, better than ever!"
   }
 }
