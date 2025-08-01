@@ -6,48 +6,15 @@ Changes to be committed:
 	modified:   Extras/Information-Bedrock.txt
 	modified:   Extras/Information-Java.txt
 	modified:   Extras/gitlog.txt
-	modified:   LICENSE.txt
-	modified:   README.md
 	modified:   ZPack-Bedrock/manifest.json
-	deleted:    ZPack-Bedrock/textures/.inactive/items/copper_helmet.png
-	new file:   ZPack-Bedrock/textures/blocks/exposed_lightning_rod.png
-	new file:   ZPack-Bedrock/textures/blocks/lightning_rod.png
-	new file:   ZPack-Bedrock/textures/blocks/oxidized_lightning_rod.png
-	modified:   ZPack-Bedrock/textures/blocks/redstone_torch_on.png
-	new file:   ZPack-Bedrock/textures/blocks/weathered_lightning_rod.png
-	renamed:    ZPack-Bedrock/textures/.inactive/items/copper_axe.png -> ZPack-Bedrock/textures/items/copper_axe.png
-	renamed:    ZPack-Bedrock/textures/.inactive/items/copper_boots.png -> ZPack-Bedrock/textures/items/copper_boots.png
-	renamed:    ZPack-Bedrock/textures/.inactive/items/copper_chestplate.png -> ZPack-Bedrock/textures/items/copper_chestplate.png
-	new file:   ZPack-Bedrock/textures/items/copper_helmet.png
-	renamed:    ZPack-Bedrock/textures/.inactive/items/copper_hoe.png -> ZPack-Bedrock/textures/items/copper_hoe.png
-	renamed:    ZPack-Bedrock/textures/.inactive/items/copper_leggings.png -> ZPack-Bedrock/textures/items/copper_leggings.png
-	renamed:    ZPack-Bedrock/textures/.inactive/items/copper_pickaxe.png -> ZPack-Bedrock/textures/items/copper_pickaxe.png
-	renamed:    ZPack-Bedrock/textures/.inactive/items/copper_shovel.png -> ZPack-Bedrock/textures/items/copper_shovel.png
-	renamed:    ZPack-Bedrock/textures/.inactive/items/copper_sword.png -> ZPack-Bedrock/textures/items/copper_sword.png
-	modified:   ZPack-Bedrock/textures/items/diamond_helmet.png
-	modified:   ZPack-Bedrock/textures/items/gold_helmet.png
-	modified:   ZPack-Bedrock/textures/items/iron_helmet.png
-	modified:   ZPack-Bedrock/textures/items/netherite_helmet.png
-	new file:   ZPack-Java/FUTUREpack.mcmeta
-	deleted:    ZPack-Java/assets/minecraft/textures/.inactive/item/copper_helmet.png
-	new file:   ZPack-Java/assets/minecraft/textures/block/exposed_lightning_rod.png
-	new file:   ZPack-Java/assets/minecraft/textures/block/lightning_rod.png
-	new file:   ZPack-Java/assets/minecraft/textures/block/oxidized_lightning_rod.png
-	new file:   ZPack-Java/assets/minecraft/textures/block/weathered_lightning_rod.png
-	renamed:    ZPack-Java/assets/minecraft/textures/.inactive/item/copper_axe.png -> ZPack-Java/assets/minecraft/textures/item/copper_axe.png
-	renamed:    ZPack-Java/assets/minecraft/textures/.inactive/item/copper_boots.png -> ZPack-Java/assets/minecraft/textures/item/copper_boots.png
-	renamed:    ZPack-Java/assets/minecraft/textures/.inactive/item/copper_chestplate.png -> ZPack-Java/assets/minecraft/textures/item/copper_chestplate.png
-	new file:   ZPack-Java/assets/minecraft/textures/item/copper_helmet.png
-	renamed:    ZPack-Java/assets/minecraft/textures/.inactive/item/copper_hoe.png -> ZPack-Java/assets/minecraft/textures/item/copper_hoe.png
-	renamed:    ZPack-Java/assets/minecraft/textures/.inactive/item/copper_leggings.png -> ZPack-Java/assets/minecraft/textures/item/copper_leggings.png
-	renamed:    ZPack-Java/assets/minecraft/textures/.inactive/item/copper_pickaxe.png -> ZPack-Java/assets/minecraft/textures/item/copper_pickaxe.png
-	renamed:    ZPack-Java/assets/minecraft/textures/.inactive/item/copper_shovel.png -> ZPack-Java/assets/minecraft/textures/item/copper_shovel.png
-	renamed:    ZPack-Java/assets/minecraft/textures/.inactive/item/copper_sword.png -> ZPack-Java/assets/minecraft/textures/item/copper_sword.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/diamond_helmet.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/golden_helmet.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/iron_helmet.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/netherite_helmet.png
-	modified:   ZPack-Java/pack.mcmeta
+	modified:   ZPack-Bedrock/pack_icon.png
+	modified:   ZPack-Bedrock/textures/items/broken_elytra.png
+	modified:   ZPack-Bedrock/textures/items/disc_fragment_5.png
+	modified:   ZPack-Bedrock/textures/items/record_5.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/disc_fragment_5.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/elytra_broken.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/music_disc_5.png
+	modified:   ZPack-Java/pack.png
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)

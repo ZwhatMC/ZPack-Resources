@@ -16,11 +16,11 @@ Highlight Features:
 	Many other small, very important changes.
 
 Changelog:
-	Moved copper equipment
-	Added [default, exposed, weathered, oxidised]; lightning rods
-	Updated [copper, iron, gold, diamond, netherite]: helmets
+	Updated pack icon
+	Updated disc & disc fragment 5
+	Updated elytra broken
 	----------------------------
-	Updated to Version 044!
+	Updated to Version 044.1!
 	
 	
 -- Information-Java (Revision 7) for ZPack Vanilla Plus: Java Edition --
