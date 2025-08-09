@@ -6,15 +6,69 @@ Changes to be committed:
 	modified:   Extras/Information-Bedrock.txt
 	modified:   Extras/Information-Java.txt
 	modified:   Extras/gitlog.txt
+	modified:   LICENSE.txt
+	modified:   README.md
 	modified:   ZPack-Bedrock/manifest.json
-	modified:   ZPack-Bedrock/pack_icon.png
-	modified:   ZPack-Bedrock/textures/items/broken_elytra.png
-	modified:   ZPack-Bedrock/textures/items/disc_fragment_5.png
-	modified:   ZPack-Bedrock/textures/items/record_5.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/disc_fragment_5.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/elytra_broken.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/music_disc_5.png
-	modified:   ZPack-Java/pack.png
+	modified:   ZPack-Bedrock/textures/items/copper_axe.png
+	modified:   ZPack-Bedrock/textures/items/copper_hoe.png
+	modified:   ZPack-Bedrock/textures/items/copper_pickaxe.png
+	modified:   ZPack-Bedrock/textures/items/copper_shovel.png
+	modified:   ZPack-Bedrock/textures/items/diamond_axe.png
+	modified:   ZPack-Bedrock/textures/items/diamond_hoe.png
+	modified:   ZPack-Bedrock/textures/items/diamond_pickaxe.png
+	modified:   ZPack-Bedrock/textures/items/diamond_shovel.png
+	deleted:    ZPack-Bedrock/textures/items/egg_creeper.png
+	renamed:    ZPack-Bedrock/textures/items/spawn_egg_creeper.png -> ZPack-Bedrock/textures/items/eggs/spawn_egg_creeper.png
+	modified:   ZPack-Bedrock/textures/items/gold_axe.png
+	modified:   ZPack-Bedrock/textures/items/gold_hoe.png
+	modified:   ZPack-Bedrock/textures/items/gold_pickaxe.png
+	modified:   ZPack-Bedrock/textures/items/gold_shovel.png
+	modified:   ZPack-Bedrock/textures/items/iron_axe.png
+	modified:   ZPack-Bedrock/textures/items/iron_hoe.png
+	modified:   ZPack-Bedrock/textures/items/iron_pickaxe.png
+	modified:   ZPack-Bedrock/textures/items/iron_shovel.png
+	modified:   ZPack-Bedrock/textures/items/netherite_axe.png
+	modified:   ZPack-Bedrock/textures/items/netherite_hoe.png
+	modified:   ZPack-Bedrock/textures/items/netherite_pickaxe.png
+	modified:   ZPack-Bedrock/textures/items/netherite_shovel.png
+	modified:   ZPack-Bedrock/textures/items/stone_axe.png
+	modified:   ZPack-Bedrock/textures/items/stone_hoe.png
+	modified:   ZPack-Bedrock/textures/items/stone_pickaxe.png
+	modified:   ZPack-Bedrock/textures/items/stone_shovel.png
+	modified:   ZPack-Bedrock/textures/items/wood_axe.png
+	modified:   ZPack-Bedrock/textures/items/wood_hoe.png
+	modified:   ZPack-Bedrock/textures/items/wood_pickaxe.png
+	modified:   ZPack-Bedrock/textures/items/wood_shovel.png
+	modified:   ZPack-Bedrock/textures/ui/haste_effect.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/copper_axe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/copper_hoe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/copper_pickaxe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/copper_shovel.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/diamond_axe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/diamond_hoe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/diamond_pickaxe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/diamond_shovel.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/golden_axe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/golden_hoe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/golden_pickaxe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/golden_shovel.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/iron_axe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/iron_hoe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/iron_pickaxe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/iron_shovel.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/netherite_axe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/netherite_hoe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/netherite_pickaxe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/netherite_shovel.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/stone_axe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/stone_hoe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/stone_pickaxe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/stone_shovel.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/wooden_axe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/wooden_hoe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/wooden_pickaxe.png
+	modified:   ZPack-Java/assets/minecraft/textures/item/wooden_shovel.png
+	modified:   ZPack-Java/assets/minecraft/textures/mob_effect/haste.png
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
