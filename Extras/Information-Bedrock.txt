@@ -33,6 +33,8 @@ Changelog:
 	Updated armor half
 	Updated armor full
 	Updated mining fatigue effect
+	Updated many hunger sprites
+	Updated spawn egg creeper
 	--------------------------------------------------
 	Updated to Version 045.0: The pixel-perfect update!
 	

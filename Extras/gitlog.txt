@@ -4,42 +4,7 @@ Your branch is up to date with 'origin/main'.
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
 	modified:   Extras/Information-Bedrock.txt
-	modified:   Extras/Information-Java.txt
 	modified:   Extras/gitlog.txt
-	modified:   ZPack-Bedrock/manifest.json
-	modified:   ZPack-Bedrock/textures/blocks/copper_ore.png
-	modified:   ZPack-Bedrock/textures/blocks/deepslate/deepslate_copper_ore.png
-	modified:   ZPack-Bedrock/textures/blocks/raw_copper_block.png
-	new file:   ZPack-Bedrock/textures/item_texture.json
-	modified:   ZPack-Bedrock/textures/items/gold_axe.png
-	modified:   ZPack-Bedrock/textures/items/gold_shovel.png
-	modified:   ZPack-Bedrock/textures/items/gold_sword.png
-	modified:   ZPack-Bedrock/textures/items/music_disc_creator.png
-	modified:   ZPack-Bedrock/textures/items/music_disc_relic.png
-	renamed:    ZPack-Bedrock/textures/items/eggs/spawn_egg_creeper.png -> ZPack-Bedrock/textures/items/spawn_eggs/spawn_egg_creeper.png
-	modified:   ZPack-Bedrock/textures/ui/armor_full.png
-	modified:   ZPack-Bedrock/textures/ui/armor_half.png
-	modified:   ZPack-Bedrock/textures/ui/hunger_effect_flash_full.png
-	modified:   ZPack-Bedrock/textures/ui/hunger_effect_flash_half.png
-	modified:   ZPack-Bedrock/textures/ui/hunger_effect_full.png
-	modified:   ZPack-Bedrock/textures/ui/hunger_effect_half.png
-	modified:   ZPack-Bedrock/textures/ui/mining_fatigue_effect.png
-	new file:   ZPack-Bedrock/textures/ui/title.png
-	modified:   ZPack-Java/FUTUREpack.mcmeta
-	modified:   ZPack-Java/assets/minecraft/textures/block/copper_ore.png
-	modified:   ZPack-Java/assets/minecraft/textures/block/deepslate_copper_ore.png
-	modified:   ZPack-Java/assets/minecraft/textures/block/raw_copper_block.png
-	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/hud/armor_full.png
-	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/hud/armor_half.png
-	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/hud/food_full_hunger.png
-	modified:   ZPack-Java/assets/minecraft/textures/gui/sprites/hud/food_half_hunger.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/creeper_spawn_egg.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/golden_axe.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/golden_shovel.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/golden_sword.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/music_disc_creator.png
-	modified:   ZPack-Java/assets/minecraft/textures/item/music_disc_relic.png
-	modified:   ZPack-Java/assets/minecraft/textures/mob_effect/mining_fatigue.png
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
