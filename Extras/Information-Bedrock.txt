@@ -20,11 +20,21 @@ Bedrock Edition Features:
 	Held bed items match placed colour.
 		
 Changelog:
-	Fixed an issue with spawn egg creeper
-	Updated many tools and weapons
-	Updated haste effect
+	Added title
+	Fixed an issue with spawn eggs
+	Updated copper ore
+	Updated deepslate copper ore
+	Updated raw copper block
+	Updated music disc relic
+	Updated music disc creator
+	Updated gold axe
+	Updated gold shovel
+	Updated gold sword
+	Updated armor half
+	Updated armor full
+	Updated mining fatigue effect
 	--------------------------------------------------
-	Updated to Version 044.2!
+	Updated to Version 045.0: The pixel-perfect update!
 	
 	
 -- Information-Bedrock (Revision 7) for ZPack Vanilla Plus: Bedrock Edition --
