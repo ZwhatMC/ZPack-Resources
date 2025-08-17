@@ -16,21 +16,10 @@ Highlight Features:
 	Many other small, very important changes.
 
 Changelog:
-	Updated copper ore
-	Updated deepslate copper ore
-	Updated raw copper block
-	Updated music disc relic
-	Updated music disc creator
-	Updated golden axe
-	Updated golden shovel
-	Updated golden sword
-	Updated armor half
-	Updated armor full
-	Updated mining fatigue
-	Updated many hunger sprites
-	Updated creeper spawn egg
+	Updated copper ores
+	
 	----------------------------
-	Updated to Version 045.0: The pixel-perfect update!
+	Updated to Version 045.1!
 	
 	
 -- Information-Java (Revision 7) for ZPack Vanilla Plus: Java Edition --

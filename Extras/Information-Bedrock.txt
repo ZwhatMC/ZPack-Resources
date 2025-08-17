@@ -4,7 +4,7 @@
 Your vanilla, better than ever!
 Compatible with Vibrant Visuals.
 --------------------------------------------------
-This texture pack is for Minecraft: Bedrock Edition, (1.21.94.1)
+This texture pack is for Minecraft: Bedrock Edition, (1.21.101.1)
 
 Highlight Features:
 	Hunger bar sprites are golden carrots.
@@ -20,23 +20,10 @@ Bedrock Edition Features:
 	Held bed items match placed colour.
 		
 Changelog:
-	Added title
-	Fixed an issue with spawn eggs
-	Updated copper ore
-	Updated deepslate copper ore
-	Updated raw copper block
-	Updated music disc relic
-	Updated music disc creator
-	Updated gold axe
-	Updated gold shovel
-	Updated gold sword
-	Updated armor half
-	Updated armor full
-	Updated mining fatigue effect
-	Updated many hunger sprites
-	Updated spawn egg creeper
+	Updated copper ores
+	
 	--------------------------------------------------
-	Updated to Version 045.0: The pixel-perfect update!
+	Updated to Version 045.1!
 	
 	
 -- Information-Bedrock (Revision 7) for ZPack Vanilla Plus: Bedrock Edition --
