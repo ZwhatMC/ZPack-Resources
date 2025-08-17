@@ -2,7 +2,7 @@
 
 
 Your vanilla, better than ever!
-Available for Bedrock & Java Edition, compatible with Vibrant Visuals.
+Available for Bedrock & Java Editions, compatible with Vibrant Visuals.
 
 Find other information here:
 

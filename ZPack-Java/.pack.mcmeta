@@ -1,3 +1,4 @@
+// not intended for release versions, this .mcmeta ensures compatibility with snapshot 25w33a 
 {
   "pack": {
     "pack_format": 65.0,

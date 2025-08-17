@@ -16,10 +16,14 @@ Highlight Features:
 	Many other small, very important changes.
 
 Changelog:
-	Updated copper ores
+	Updated pack
+	Updated armour sprites
+	Updated weakness
+	Updated strength
+	Updated many helmets
 	
 	----------------------------
-	Updated to Version 045.1!
+	Updated to Version 045.1+!
 	
 	
 -- Information-Java (Revision 7) for ZPack Vanilla Plus: Java Edition --

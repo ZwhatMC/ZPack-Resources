@@ -20,10 +20,13 @@ Bedrock Edition Features:
 	Held bed items match placed colour.
 		
 Changelog:
-	Updated copper ores
-	
+	Updated pack icon
+	Updated armour sprites
+	Updated weakness effect
+	Updated strength effect
+	Updated many helmets
 	--------------------------------------------------
-	Updated to Version 045.1!
+	Updated to Version 045.2!
 	
 	
 -- Information-Bedrock (Revision 7) for ZPack Vanilla Plus: Bedrock Edition --
