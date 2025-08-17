@@ -21,9 +21,8 @@ Changelog:
 	Updated weakness
 	Updated strength
 	Updated many helmets
-	
 	----------------------------
-	Updated to Version 045.1+!
+	Updated to Version 045.2!
 	
 	
 -- Information-Java (Revision 7) for ZPack Vanilla Plus: Java Edition --
