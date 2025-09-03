@@ -2,7 +2,7 @@
 
 
 Found here:
-The ZPack Vanilla Plus Repository, on Github.com:	[https://github.com/ZwhatMC/ZPack-Resources]
+ZPack Vanilla Plus Repository, on Github.com:		[https://github.com/ZwhatMC/ZPack-Resources]
 ZwhatMC, on Github.com:							[https://github.com/ZwhatMC]
 
 
@@ -21,4 +21,4 @@ Under the following terms:
 If changes are made, please clearly state so.
 
 
--- License (Revision 11) for ZPack Vanilla Plus --
+-- License (Format RC, 0453) for ZPack Vanilla Plus --

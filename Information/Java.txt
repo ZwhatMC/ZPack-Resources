@@ -1,0 +1,34 @@
+-- Information for ZPack Vanilla Plus: Java, By ZwhatMC --
+
+
+Your vanilla, better than ever!
+
+--------------------------------------------------
+This texture pack is for Minecraft: Java Edition, (1.21.8+)
+
+Highlight Features:
+	Hunger bar sprites are golden carrots.
+	Armour items are squarer to match worn models.
+	Generic UI & HUD equipment sprites are replaced with netherite ones.
+	Creeper + spawn egg are darker.
+	Music discs / records are circular.
+	Raw copper, copper ores, and raw copper block are unexposed.
+
+	Many other small, very important changes.
+	
+Java Edition Features:
+	Crafting / furnace recipe toggles are 2D.
+
+Changelog:
+	Updated armour sprites
+	Removed gitlog
+	Updated golden armour
+	Added brown bundle
+	Updated many pickaxe textures
+	Updated many copper tool textures
+	Updated golden shovel
+	--------------------------------------------------
+	Updated to Version 045.3: Brown Brown Bundles!
+	
+	
+-- Information/Java (Format 10, 0453) for ZPack Vanilla Plus: Java Edition --

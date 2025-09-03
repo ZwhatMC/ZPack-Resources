@@ -8,11 +8,9 @@ Find other information here:
 
     LICENSE.txt -- License for ZPack Vanilla Plus.
     
-	Extras/Information-Bedrock.txt -- Short feature list and changelog for ZPack-VP Bedrock.
-    Extras/Information-Java.txt -- Short feature list and changelog for ZPack-VP Java.
+	Information/Bedrock.txt -- Short feature list and changelog for ZPack Vanilla Plus: Bedrock Edition.
+    Information/Java.txt -- Short feature list and changelog for ZPack Vanilla Plus: Java Edition.
 	--------------------------------------------------
-	Extras/gitlog.txt -- An exact changelog based on 'git status'.
-
 
 
 ![Armour And Elytra](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/ArmourAndElytra.png)
@@ -21,4 +19,4 @@ Find other information here:
 ![GUI](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/GUI.png)
 ![Miscellaneous](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/Miscellaneous.png)
 
--- README (Revision 15) for ZPack Vanilla Plus --
+-- README (Format RC, 0453) for ZPack Vanilla Plus --

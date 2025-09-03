@@ -1,10 +1,10 @@
--- Information for ZPack-VP Bedrock By ZwhatMC --
+-- Information for ZPack Vanilla Plus: Bedrock, By ZwhatMC --
 
 
 Your vanilla, better than ever!
 Compatible with Vibrant Visuals.
 --------------------------------------------------
-This texture pack is for Minecraft: Bedrock Edition, (1.21.101.1)
+This texture pack is for Minecraft: Bedrock Edition, (1.21.100+)
 
 Highlight Features:
 	Hunger bar sprites are golden carrots.
@@ -17,16 +17,17 @@ Highlight Features:
 	Many other small, very important changes.
 
 Bedrock Edition Features:
-	Held bed items match placed colour.
+	Bed items match placed block-entity colour.
 		
 Changelog:
-	Updated pack icon
 	Updated armour sprites
-	Updated weakness effect
-	Updated strength effect
-	Updated many helmets
+	Removed gitlog
+	Updated gold armour
+	Added bundle brown
+	Updated many pickaxe textures
+	Updated many copper tool textures
+	Updated gold shovel
 	--------------------------------------------------
-	Updated to Version 045.2!
+	Updated to Version 045.3: Brown Brown Bundles!
 	
-	
--- Information-Bedrock (Revision 7) for ZPack Vanilla Plus: Bedrock Edition --
+-- Information/Bedrock (Format 10, 0453) for ZPack Vanilla Plus: Bedrock Edition --
