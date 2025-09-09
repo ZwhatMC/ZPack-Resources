@@ -1,4 +1,4 @@
--- License for 'ZPack Vanilla Plus' By ZwhatMC --
+-- License for ZPack Vanilla Plus By ZwhatMC --
 
 
 Found here:
@@ -10,8 +10,8 @@ Licensed under the Creative Commons Attribution-NonCommercial 4.0 International 
 [https://creativecommons.org/licenses/by-nc/4.0/]
 
 You are free to:
-- Share - copy and redistribute the material in any medium or format
-- Adapt - remix, transform, and build upon the material
+- Share - copy and redistribute the material in any medium or format.
+- Adapt - remix, transform, and build upon the material.
 
 Under the following terms:
 - Attribution - Credit "ZwhatMC, creator of ZPack Vanilla Plus" and include a link to the license.
@@ -21,4 +21,4 @@ Under the following terms:
 If changes are made, please clearly state so.
 
 
--- License (Format RC, 0453) for ZPack Vanilla Plus --
+-- License (Format 0460) for ZPack Vanilla Plus --

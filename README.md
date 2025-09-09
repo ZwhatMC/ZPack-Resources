@@ -1,4 +1,4 @@
--- Read Me! for 'ZPack Vanilla Plus' By ZwhatMC --
+-- Read Me! for ZPack Vanilla Plus By ZwhatMC --
 
 
 Your vanilla, better than ever!
@@ -8,8 +8,8 @@ Find other information here:
 
     LICENSE.txt -- License for ZPack Vanilla Plus.
     
-	Information/Bedrock.txt -- Short feature list and changelog for ZPack Vanilla Plus: Bedrock Edition.
-    Information/Java.txt -- Short feature list and changelog for ZPack Vanilla Plus: Java Edition.
+	Information/Bedrock.txt -- Short feature list and changelog for ZPack Vanilla Plus: Bedrock.
+    Information/Java.txt -- Short feature list and changelog for ZPack Vanilla Plus: Java.
 	--------------------------------------------------
 
 
@@ -19,4 +19,4 @@ Find other information here:
 ![GUI](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/GUI.png)
 ![Miscellaneous](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/Miscellaneous.png)
 
--- README (Format RC, 0453) for ZPack Vanilla Plus --
+-- README (Format 0460) for ZPack Vanilla Plus --
