@@ -4,7 +4,7 @@
 Your vanilla, better than ever!
 Compatible with Vibrant Visuals.
 --------------------------------------------------
-This texture pack is for Minecraft: Bedrock Edition, (1.21.100+)
+ZPack-Bedrock is a texture pack for Minecraft: Bedrock Edition, (1.21.100+)
 
 Highlight Features:
 	Hunger bar sprites are golden carrots.
@@ -20,13 +20,16 @@ Bedrock Edition Features:
 	Bed items match placed block-entity colour.
 		
 Changelog:
-	Updated record chirp item
-	Updated wood tool items
-	Added boat items
-	Added chest boat items
-	Updated mace item
+	Added torch_on
+	Updated redstone_torch_on
+	Updated pack_icon 
+	Updated haste_effect
+	Updated weakness_effect
+	Added copper_torch
+	Added soul_torch
+	Updated bed_yellow
 	--------------------------------------------------
-	Updated to Version 046.0: Bountiful Boats!
+	Updated to Version 046.1: The Copper Age!
 	
 	
--- Information/Bedrock (Format 0460) for ZPack Vanilla Plus: Bedrock --
+-- Information/Bedrock (Format 0461) for ZPack Vanilla Plus: Bedrock --

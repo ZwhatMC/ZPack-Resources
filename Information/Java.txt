@@ -4,7 +4,7 @@
 Your vanilla, better than ever!
 
 --------------------------------------------------
-This texture pack is for Minecraft: Java Edition, (1.21.8+)
+ZPack-Java is a texture pack for Minecraft: Java Edition, (1.21.8+)
 
 Highlight Features:
 	Hunger bar sprites are golden carrots.
@@ -20,13 +20,14 @@ Java Edition Features:
 	Crafting / furnace recipe toggles are 2D.
 
 Changelog:
-	Updated music disc chirp item
-	Updated wooden tool items
-	Added boat items
-	Added chest boat items
-	Updated mace item
+	Added torch
+	Updated haste
+	Updated weakness
+	Added redstone_torch
+	Added copper_torch
+	Added soul_torch
 	--------------------------------------------------
-	Updated to Version 046.0: Bountiful Boats!
+	Updated to Version 046.1: The Copper Age!
 	
 	
--- Information/Java (Format 0460) for ZPack Vanilla Plus: Java --
+-- Information/Java (Format 0461) for ZPack Vanilla Plus: Java --
