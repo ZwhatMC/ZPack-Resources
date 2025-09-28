@@ -20,16 +20,10 @@ Bedrock Edition Features:
 	Bed items match placed block-entity colour.
 		
 Changelog:
-	Added torch_on
-	Updated redstone_torch_on
-	Updated pack_icon 
-	Updated haste_effect
-	Updated weakness_effect
-	Added copper_torch
-	Added soul_torch
-	Updated bed_yellow
+	Added bamboo_chest_raft
+	Added bamboo_raft
 	--------------------------------------------------
-	Updated to Version 046.1: The Copper Age!
+	Updated to Version 046.2!
 	
 	
 -- Information/Bedrock (Format 0461) for ZPack Vanilla Plus: Bedrock --

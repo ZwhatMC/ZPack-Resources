@@ -1,9 +1,0 @@
-// not intended for release versions, this .mcmeta ensures compatibility with snapshot 25w33a 
-{
-  "pack": {
-    "pack_format": 65.0,
-    "min_format": 65.0,
-    "max_format": 65.0,
-    "description": "Your vanilla, better than ever!"
-  }
-}

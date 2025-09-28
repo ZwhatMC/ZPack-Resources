@@ -20,14 +20,12 @@ Java Edition Features:
 	Crafting / furnace recipe toggles are 2D.
 
 Changelog:
-	Added torch
-	Updated haste
-	Updated weakness
-	Added redstone_torch
-	Added copper_torch
-	Added soul_torch
+	Added bamboo_chest_raft
+	Added bamboo_raft
+	Removed .pack.mcmeta
+	Updated pack.mcmeta
 	--------------------------------------------------
-	Updated to Version 046.1: The Copper Age!
+	Updated to Version 046.2!
 	
 	
 -- Information/Java (Format 0461) for ZPack Vanilla Plus: Java --
