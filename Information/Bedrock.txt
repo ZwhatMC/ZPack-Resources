@@ -13,17 +13,23 @@ Highlight Features:
 	Creeper and creeper spawn egg are darker.
 	Music discs are circular.
 	Raw copper, copper ores, and raw copper block are unexposed.
+	Dyes are more detailed, being a combination of the new and old textures.
 
 	Many other small, yet important changes.
 
 Bedrock Edition Features:
-	Bed items match placed block-entity colour.
+	Bed item colour matches placed block.
 		
 Changelog:
-	Added bamboo_chest_raft
-	Added bamboo_raft
-	--------------------------------------------------
-	Updated to Version 046.2!
+	Added dyes (All)
+	Added exposed_copper_chain1
+	Added exposed_copper_chain2
+	Added weathered_copper_chain1
+	Added weathered_copper_chain2
+	Added weathered_copper_chain
+	Added exposed_copper_chain
+	-------------------------------------------------
+	Updated to Version 0470: The Copper Sink!
 	
 	
--- Information/Bedrock (Format 0461) for ZPack Vanilla Plus: Bedrock --
+-- Information/Bedrock (Format 0470) for ZPack Vanilla Plus: Bedrock --
