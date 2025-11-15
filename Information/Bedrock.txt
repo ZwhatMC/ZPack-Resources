@@ -14,17 +14,29 @@ Highlight Features:
 	Music discs are circular.
 	Raw copper, copper ores, and raw copper block are unexposed.
 	Dyes are more detailed, being a combination of the new and old textures.
+	Nautilus armour items are round, based on the naulilus shell.
+	Spear grips are coloured based on the material used for the spearhead.
 
-	Many other small, yet important changes.
+	Many other small, important changes.
 
 Bedrock Edition Features:
 	Bed item colour matches placed block.
 		
 Changelog:
-	Updated item; [copper_helmet, iron_helmet, diamond_helmet, netherite_helmet, gold_helmet]
-	Updated resource; [pack_icon]
+	Updated block;
+	[redstone_torch_on]
+	Removed ui;
+	[title.png]
+	Added items;
+	[wood_spear, stone_spear, copper_spear, iron_spear, gold_spear, diamond_spear, netherite_spear]
+	Added entities;
+	[wood_spear, stone_spear, copper_spear, iron_spear, gold_spear, diamond_spear, netherite_spear]
+	Added items;
+	[copper_nautilus_shell, iron_nautilus_shell, gold_nautilus_shell, diamond_nautilus_shell, netherite_nautilus_shell]
+	Added ui;
+	[empty_nautilus_armor_slot]
 	-------------------------------------------------
-	Updated to Version 0471!
+	Updated to Version 0472: Mounts of Mayhem!
 	
 	
--- Information/Bedrock (Format 0471) for ZPack Vanilla Plus: Bedrock --
+-- Information/Bedrock (Format 0472) for ZPack Vanilla Plus: Bedrock --

@@ -14,17 +14,29 @@ Highlight Features:
 	Music discs are circular.
 	Raw copper, copper ores, and raw copper block are unexposed.
 	Dyes are more detailed, being a combination of the new and old textures.
+	Nautilus armour items are round, based on the naulilus shell.
+	Spear grips are coloured based on the material used for the spearhead.
 
-	Many other small, yet important changes.
+	Many other small, important changes.
 	
 Java Edition Features:
-	Crafting / furnace recipe toggles are 2D.
+	Crafting table and furnace recipe toggles are 2D.
 
 Changelog:
-	Updated item; [copper_helmet, iron_helmet, diamond_helmet, netherite_helmet, golden_helmet]
-	Updated resource; [pack]
+	Updated block;
+	[redstone_torch]
+	Added items;
+	[wooden_spear, stone_spear, copper_spear, iron_spear, golden_spear, diamond_spear, netherite_spear]
+	Added items;
+	[wooden_spear_in_hand, stone_spear_in_hand, copper_spear_in_hand, iron_spear_in_hand, golden_spear_in_hand, diamond_spear_in_hand, netherite_spear_in_hand]
+	Added items;
+	[copper_nautilus_shell, iron_nautilus_shell, golden_nautilus_shell, diamond_nautilus_shell, netherite_nautilus_shell]
+	Updated resource;
+	[pack.mcmeta]
+	Added ui;
+	[nautilus_armor, nautilus_armor_inventory]
 	-------------------------------------------------
-	Updated to Version 0471!
+	Updated to Version 0472: Mounts of Mayhem!
 	
 	
--- Information/Java (Format 0471) for ZPack Vanilla Plus: Java --
+-- Information/Java (Format 0472) for ZPack Vanilla Plus: Java --
