@@ -1,0 +1,42 @@
+-- Information + Changelog for ZPack Vanilla Plus (Bedrock & Java), By ZwhatMC --
+
+
+Your vanilla, better than ever!
+--------------------------------------------------
+
+Highlight Features:
+	Hunger bar sprites are golden carrots.
+	Armour items are squarer, to match worn models.
+	Generic interface equipment sprites and icons are replaced with netherite ones.
+	Creeper and creeper spawn egg are darker and leafier.
+	Music discs are circular.
+	Raw copper, copper ores, and raw copper block are unexposed.
+	Dyes are more detailed, being a combination of the new and old textures.
+	Nautilus armour items are round, based on the nautilus shell.
+	Spear grips are coloured based on the material used for the spearhead.
+
+	Many other small, important changes.
+
+Bedrock Edition Features:
+	Bed item colour better matches placed block.
+	Redstone torches are red and have no outline.
+
+Java Edition Features:
+	Crafting table and furnace recipe toggle buttons are simpler.
+
+--------------------------------------------------
+
+Changelog:
+
+	Added; []
+
+	Modified; [Redstone Torch^BE, Spear items, Nautilus Armour items, Netherite Chestplate, Grey Dye, Brown Dye, Magenta Dye, Broken Elytra]
+
+	Removed; [Redstone Torch^JE, Torch, Soul Torch, Copper Torch]
+
+--------------------------------------------------
+Updated to 25.4.0!
+
+(Year.Drop.Update)
+
+-- Information for ZPack Vanilla Plus: Bedrock & Java (Format 2540)
