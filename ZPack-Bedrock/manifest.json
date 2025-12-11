@@ -1,11 +1,11 @@
 {
-    "format_version": 2,
+    "format_version": 1,
     "header": {
         "description": "Your vanilla, better than ever!",
         "name": "ZPack Vanilla Plus",
         "uuid": "67c6e9a8-3093-462a-9c36-dbb052167822",
         "version": [25, 4, 0],
-        "min_engine_version": [ 1, 21, 110 ]
+        "min_engine_version": [1, 21, 120]
     },
     "modules": [
         {
@@ -14,5 +14,9 @@
             "uuid": "673f6749-53be-44b6-b326-398005028819",
             "version": [25, 4, 0]
         }
+    ],
+    "capabilities": [
+        "pbr"
     ]
 }
+s

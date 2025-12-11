@@ -17,12 +17,13 @@ Highlight Features:
 
 	Many other small, important changes.
 
-Bedrock Edition Features:
+Bedrock Edition Extras:
+	Redstone torches are red and have no outline, to better match Java Edition, and the other torches.
 	Bed item colour better matches placed block.
-	Redstone torches are red and have no outline.
+	
 
-Java Edition Features:
-	Crafting table and furnace recipe toggle buttons are simpler.
+Java Edition Extras:
+	Crafting and furnace recipe toggle buttons are simpler.
 
 --------------------------------------------------
 
@@ -30,13 +31,15 @@ Changelog:
 
 	Added; []
 
-	Modified; [Redstone Torch^BE, Spear items, Nautilus Armour items, Netherite Chestplate, Grey Dye, Brown Dye, Magenta Dye, Broken Elytra]
+	Modified; []
 
-	Removed; [Redstone Torch^JE, Torch, Soul Torch, Copper Torch]
+	Removed; []
+
+	Notes; Fix: Updated manifest.json^(BE) to properly support Vibrant Visuals.
 
 --------------------------------------------------
-Updated to 25.4.0!
+Updated to 25.4.0a!
 
 (Year.Drop.Update)
 
--- Information for ZPack Vanilla Plus: Bedrock & Java (Format 2540)
+-- Information for ZPack Vanilla Plus: Bedrock & Java (Format 2541) --
