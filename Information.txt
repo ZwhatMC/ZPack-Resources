@@ -31,11 +31,11 @@ Changelog:
 
 	Added; []
 
-	Modified; [Broken Elytra, Nautilus Armour Items, Creeper Entity, Creeper Skull Entity^(BE), Creeper Spawn Egg]
+	Modified; [Otherside Music Disc, Netherite Axe, Netherite Pickaxe, Netherite Shovel]
 
-	Removed; [Stick Item, Golden Apple^(BE), Golden Carrot^(BE)]
+	Removed; []
 
-	Notes; Updated Pack Icons
+	Notes; Changes from source 2540a & 25.4.0-b apply.
 
 --------------------------------------------------
 Updated to 25.4.1!

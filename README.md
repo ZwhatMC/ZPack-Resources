@@ -5,8 +5,8 @@ Your vanilla, better than ever!
 
 --------------------------------------------------
 
-ZPack Vanilla Plus: Bedrock is a texture pack for Minecraft Bedrock 1.21.120+, compatible with Vibrant Visuals.
-ZPack Vanilla Plus: Java is a texture pack for Minecraft Java 1.21.10+
+ZPack Vanilla Plus: Bedrock is a texture pack for Minecraft Bedrock 1.21.130+, compatible with Vibrant Visuals.
+ZPack Vanilla Plus: Java is a texture pack for Minecraft Java 1.21.11+
 
 --------------------------------------------------
 
