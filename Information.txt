@@ -31,14 +31,14 @@ Changelog:
 
 	Added; []
 
-	Modified; []
+	Modified; [Broken Elytra, Nautilus Armour Items, Creeper Entity, Creeper Skull Entity^(BE), Creeper Spawn Egg]
 
-	Removed; []
+	Removed; [Stick Item, Golden Apple^(BE), Golden Carrot^(BE)]
 
-	Notes; Fix: Updated manifest.json^(BE) to properly support Vibrant Visuals.
+	Notes; Updated Pack Icons
 
 --------------------------------------------------
-Updated to 25.4.0a!
+Updated to 25.4.1!
 
 (Year.Drop.Update)
 
