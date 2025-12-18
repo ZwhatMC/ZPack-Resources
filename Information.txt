@@ -14,6 +14,7 @@ Highlight Features:
 	Dyes are more detailed, and lack palettes.
 	Nautilus armour items are round, based on the nautilus shell.
 	Spear grips are coloured based on the material used for the spearhead.
+	Ascii font is better vertically centered.
 
 	Many other small, important changes.
 
@@ -29,16 +30,16 @@ Java Edition Extras:
 
 Changelog:
 
-	Added; []
+	Added; [default8^BE, ascii^JE (Font files)]
 
-	Modified; [Dye Items, Nautilus Armour Items]
+	Modified; []
 
 	Removed; []
 
-	Notes; Fixed manifest.json & Updated LICENSE.txt
+	Notes; Default8 & Ascii are font files for BE and JE respectively.
 
 --------------------------------------------------
-Updated to 25.4.2!
+Updated to 25.4.3 Pre-release A
 
 (Year.Drop.Update)
 
