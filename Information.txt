@@ -8,17 +8,17 @@ Highlight Features:
 	Hunger bar sprites are golden carrots.
 	Armour items are squarer, to match worn models.
 	Generic interface equipment sprites and icons are replaced with netherite ones.
-	Creeper and creeper spawn egg are darker and leafier.
+	Creeper is darker and leafier.
 	Music discs are circular.
 	Raw copper, copper ores, and raw copper block are unexposed.
-	Dyes are more detailed, being a combination of the new and old textures.
+	Dyes are more detailed, and lack palettes.
 	Nautilus armour items are round, based on the nautilus shell.
 	Spear grips are coloured based on the material used for the spearhead.
 
 	Many other small, important changes.
 
 Bedrock Edition Extras:
-	Redstone torches are red and have no outline, to better match Java Edition, and the other torches.
+	Redstone torches are red and have no outline, to better match Java Edition, and the other torch items.
 	Bed item colour better matches placed block.
 	
 
@@ -31,14 +31,14 @@ Changelog:
 
 	Added; []
 
-	Modified; [Otherside Music Disc, Netherite Axe, Netherite Pickaxe, Netherite Shovel]
+	Modified; [Dye Items, Nautilus Armour Items]
 
 	Removed; []
 
-	Notes; Changes from source 2540a & 25.4.0-b apply.
+	Notes; Fixed manifest.json & Updated LICENSE.txt
 
 --------------------------------------------------
-Updated to 25.4.1!
+Updated to 25.4.2!
 
 (Year.Drop.Update)
 
