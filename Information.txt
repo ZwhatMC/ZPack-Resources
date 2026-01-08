@@ -1,7 +1,7 @@
--- Information + Changelog for ZPack Vanilla Plus (Bedrock & Java), By ZwhatMC --
+-- Information for ZPack Vanilla Plus: Bedrock & Java, By ZwhatMC --
 
 
-Your vanilla, better than ever!
+Your vanilla, better than ever! - 26.0.1: Take Command!
 --------------------------------------------------
 
 Highlight Features:
@@ -14,12 +14,14 @@ Highlight Features:
 	Dyes are more detailed, and lack palettes.
 	Nautilus armour items are round, based on the nautilus shell.
 	Spear grips are coloured based on the material used for the spearhead.
-	Ascii/Default8 font is better vertically justified.
+	Mojangles font is better vertically justified (Ascii only, no accented characters).
+	Name tag has an iron loop to match its crafting recipe*
+	Command blocks are symmetrical and more logically textured (In my opinion.)
 
 	Many other small, important changes.
 
 Bedrock Edition Extras:
-	Redstone torches are red and have no outline, to better match Java Edition, and the other torch items.
+	Redstone torches are red and have no outline, to better match Java redstone torches, and the other torch items.
 	Bed item colour better matches placed block.
 	
 
@@ -28,19 +30,5 @@ Java Edition Extras:
 
 --------------------------------------------------
 
-Changelog:
 
-	Added; [default8^BE, ascii^JE]
-
-	Modified; [pack_icon^BE, pack^JE]
-
-	Removed; []
-
-	Notes; Default8 & Ascii are font files for BE and JE respectively.
-
---------------------------------------------------
-Updated to 26.0.0: Happy New Year!
-
-(Year.Drop.Update)
-
--- Information for ZPack Vanilla Plus: Bedrock & Java (Format 2541) --
+-- Information for ZPack Vanilla Plus: Bedrock & Java --

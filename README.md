@@ -5,15 +5,15 @@ Your vanilla, better than ever!
 
 --------------------------------------------------
 
-ZPack Vanilla Plus: Bedrock is a texture pack for Minecraft Bedrock 1.21.130+, compatible with Vibrant Visuals.
-ZPack Vanilla Plus: Java is a texture pack for Minecraft Java 1.21.11+
+ZPack Vanilla Plus: Bedrock is a texture pack for Minecraft: Bedrock, and is compatible with Vibrant Visuals.
+ZPack Vanilla Plus: Java is a texture pack for Minecraft: Java Edition
 
 --------------------------------------------------
 
 Find other information here:
 
-    Information.txt -- Feature highlight list and changelog for ZPack Vanilla Plus: Bedrock & Java
-    LICENSE.txt -- CC BY-NC 4.0 License for ZPack Vanilla Plus: Bedrock & Java    
+    LICENSE.txt -- CC BY-NC 4.0 License for ZPack Vanilla Plus: Bedrock & Java
+    Information.txt -- Feature list for ZPack Vanilla Plus: Bedrock & Java
 
 
 ![Armour And Elytra](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/ArmourAndElytra.png)
@@ -22,4 +22,4 @@ Find other information here:
 ![GUI](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/GUI.png)
 ![Miscellaneous](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/Miscellaneous.png)
 
--- README for ZPack Vanilla Plus: Bedrock & Java (Format 2541) --
+-- README for ZPack Vanilla Plus: Bedrock & Java (Format 2601) --
