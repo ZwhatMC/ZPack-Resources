@@ -1,8 +1,8 @@
--- License for ZPack Vanilla Plus: Bedrock & Java, By ZwhatMC --
+-- License for ZPack Vanilla Plus, By ZwhatMC --
 
 
-Found here:
-ZPack Vanilla Plus Repository, on Github.com:		[https://github.com/ZwhatMC/ZPack-Resources]
+Find information here:
+ZPack Vanilla Plus Resources, on Github.com:		[https://github.com/ZwhatMC/ZPack-Resources]
 ZwhatMC, on Github.com:					[https://github.com/ZwhatMC]
 
 
@@ -21,4 +21,4 @@ Under the following terms:
 If changes are made, please clearly state so.
 
 
--- License for ZPack Vanilla Plus: Bedrock & Java (Format 2601) --
+-- License for ZPack Vanilla Plus: Bedrock & Java --

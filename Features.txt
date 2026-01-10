@@ -1,10 +1,10 @@
--- Information for ZPack Vanilla Plus: Bedrock & Java, By ZwhatMC --
+-- Feature list for ZPack Vanilla Plus, By ZwhatMC --
 
 
-Your vanilla, better than ever! - 26.0.2
+Your vanilla, better than ever! - 26.0.3: Cascaded Chests!
 --------------------------------------------------
 
-Highlight Features:
+Main Features:
 	Hunger bar sprites are golden carrots.
 	Armour items are squarer, to match worn models.
 	Generic interface equipment sprites and icons are replaced with netherite ones.
@@ -14,21 +14,22 @@ Highlight Features:
 	Dyes are more detailed, and lack palettes.
 	Nautilus armour items are round, based on the nautilus shell.
 	Spear grips are coloured based on the material used for the spearhead.
+	All chests have a cascading darkness inside, instead of pure black.
 	Mojangles font is better vertically justified (Ascii only, no accented characters).
-	Name tag has an iron loop to match its crafting recipe*
+	Name tag has an iron loop to match its crafting recipe
 	Command blocks are symmetrical and more logically textured (In my opinion.)
 
 	Many other small, important changes.
 
-Bedrock Edition Extras:
+Bedrock Edition Exclusives:
 	Redstone torches are red and have no outline, to closer match Java redstone torches, and the other torch items.
 	Bed item colour better matches placed block.
 	
 
-Java Edition Extras:
+Java Edition Exclusives:
 	Crafting and furnace recipe toggle buttons are simpler.
 
 --------------------------------------------------
 
 
--- Information for ZPack Vanilla Plus: Bedrock & Java --
+-- Features for ZPack Vanilla Plus: Bedrock & Java --
