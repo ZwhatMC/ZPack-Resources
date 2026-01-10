@@ -3,16 +3,16 @@
     "header": {
         "description": "Your vanilla, better than ever!",
         "name": "ZPack Vanilla Plus",
-        "uuid": "67c6e9a8-3093-462a-9c36-dbb052167822",
-        "version": [26, 0, 1],
+        "uuid": "67c6e9a8-3094-462a-9c36-dbb052167822",
+        "version": [26, 0, 2],
         "min_engine_version": [1, 21, 130]
     },
     "modules": [
         {
             "description": "Your vanilla, better than ever!",
             "type": "resources",
-            "uuid": "673f6749-53be-44b6-b326-398005028819",
-            "version": [26, 0, 1]
+            "uuid": "673f6749-54be-44b6-b326-398005028819",
+            "version": [26, 0, 2]
         }
     ],
     "capabilities": [
