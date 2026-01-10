@@ -1,7 +1,7 @@
 -- Information for ZPack Vanilla Plus: Bedrock & Java, By ZwhatMC --
 
 
-Your vanilla, better than ever! - 26.0.1: Take Command!
+Your vanilla, better than ever! - 26.0.2
 --------------------------------------------------
 
 Highlight Features:
@@ -21,7 +21,7 @@ Highlight Features:
 	Many other small, important changes.
 
 Bedrock Edition Extras:
-	Redstone torches are red and have no outline, to better match Java redstone torches, and the other torch items.
+	Redstone torches are red and have no outline, to closer match Java redstone torches, and the other torch items.
 	Bed item colour better matches placed block.
 	
 
