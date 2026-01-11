@@ -21,4 +21,4 @@ Under the following terms:
 If changes are made, please clearly state so.
 
 
--- License for ZPack Vanilla Plus: Bedrock & Java --
+-- LICENSE for ZPack Vanilla Plus: Bedrock & Java --
