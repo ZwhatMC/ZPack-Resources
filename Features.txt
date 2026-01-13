@@ -1,7 +1,7 @@
 -- Feature list for ZPack Vanilla Plus, By ZwhatMC --
 
 
-Your vanilla, better than ever! - 26.0.4: Faceless Terracotta!
+Your vanilla, better than ever! - 26.0.4-A
 --------------------------------------------------
 
 Main Features:
