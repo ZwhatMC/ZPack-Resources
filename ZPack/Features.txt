@@ -1,7 +1,7 @@
 -- Feature list for ZPack 26 --
 
 
-Your vanilla, better than ever! - 26.0.6
+Your vanilla, better than ever! - 26.0.6-a
 --------------------------------------------------
 
 Main Features:
@@ -22,6 +22,7 @@ Main Features:
 	Brown bundles are brown!!
 	Tool and weapon items above wooden have matching pommels.
 	Horse armour items are reversed to look inwards.
+	New Splash texts! E.g. "ZPack it up!"
 
 	Many other small, but important changes.
 

@@ -1,0 +1,11 @@
+Java Edition Installation Guide
+
+Cut/Copy the "ZPack Java 26" folder
+
+Open Minecraft: Java Edition with your preferred launcher
+
+In Minecraft, select; Options, Resource Packs, "Open Pack Folder"
+
+Inside the file browser window, paste the "ZPack Java 26" folder.
+
+All done, now your vanilla is better than ever!
