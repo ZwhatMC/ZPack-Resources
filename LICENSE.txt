@@ -1,4 +1,4 @@
--- License for ZPack Vanilla Plus, By ZwhatMC --
+-- License for ZPack 26 --
 
 
 Find information here:

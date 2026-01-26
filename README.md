@@ -1,4 +1,4 @@
--- Read Me! for ZPack Vanilla Plus, By ZwhatMC --
+-- Read Me! for ZPack 26 --
 
 
 Your vanilla, better than ever!

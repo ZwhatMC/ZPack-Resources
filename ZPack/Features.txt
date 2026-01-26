@@ -1,7 +1,7 @@
--- Feature list for ZPack Vanilla Plus, By ZwhatMC --
+-- Feature list for ZPack 26 --
 
 
-Your vanilla, better than ever! - 26.0.5
+Your vanilla, better than ever! - 26.0.6
 --------------------------------------------------
 
 Main Features:
@@ -19,12 +19,16 @@ Main Features:
 	Cyan Terracotta has its creeper face removed.
 	Mojangles font is better vertically justified.
 	Command blocks are symmetrical.
+	Brown bundles are brown!!
+	Tool and weapon items above wooden have matching pommels.
+	Horse armour items are reversed to look inwards.
 
 	Many other small, but important changes.
 
 Bedrock Edition Exclusives:
 	Redstone torches are red and have no outline, to closer match Java redstone torches, and the other torch items.
-	Bed item colour better matches placed texture.
+	Bed item colours better matches placed texture.
+	Vibrant Visuals compatibility.
 	
 
 Java Edition Exclusives:
