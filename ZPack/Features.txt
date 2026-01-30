@@ -1,7 +1,7 @@
 -- Feature list for ZPack 26 --
 
 
-Your vanilla, better than ever! - 26.0.6-a
+Your vanilla, better than ever! - 26.0.7 - Stupendous Splashes!
 --------------------------------------------------
 
 Main Features:
@@ -20,22 +20,23 @@ Main Features:
 	Mojangles font is better vertically justified.
 	Command blocks are symmetrical.
 	Brown bundles are brown!!
-	Tool and weapon items above wooden have matching pommels.
+	Tool and weapon items better than wooden have matching pommels.
 	Horse armour items are reversed to look inwards.
 	New Splash texts! E.g. "ZPack it up!"
 
 	Many other small, but important changes.
 
 Bedrock Edition Exclusives:
-	Redstone torches are red and have no outline, to closer match Java redstone torches, and the other torch items.
+	Redstone torches are red and have no outline, to closer match the other torches.
 	Bed item colours better matches placed texture.
 	Vibrant Visuals compatibility.
 	
 
 Java Edition Exclusives:
 	Crafting and furnace recipe toggle buttons are simpler.
+	Entity shadows are more pixel consistent.
 
 --------------------------------------------------
 
 
--- Features for ZPack Vanilla Plus: Bedrock & Java --
+-- Features for ZPack Vanilla Plus --

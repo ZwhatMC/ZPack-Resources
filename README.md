@@ -14,10 +14,10 @@ See below;
     LICENSE.txt:    License for ZPack Vanilla Plus: Bedrock & Java.
 
 
-![Armour And Elytra](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/ArmourAndElytra.png)
+![Armour / Elytra](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/ArmourAndElytra.png)
 ![Tools](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/Tools.png)
-![Discs/Records](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/Records.png)
-![GUI](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/GUI.png)
-![Miscellaneous](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/Miscellaneous.png)
+![Discs](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/Records.png)
+![Interface](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/GUI.png)
+![Misc](https://raw.githubusercontent.com/ZwhatMC/readme.images/refs/heads/main/zpack-vanilla-plus/Miscellaneous.png)
 
--- README for ZPack Vanilla Plus: Bedrock & Java --
+-- README for ZPack Vanilla Plus --
