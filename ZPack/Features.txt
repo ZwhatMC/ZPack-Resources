@@ -22,7 +22,6 @@ Main Features:
 	Brown bundles are brown!!
 	Tool and weapon items better than wooden have matching pommels.
 	Horse armour items are reversed to look inwards.
-	New Splash texts! E.g. "ZPack it up!"
 
 	Many other small, but important changes.
 
@@ -35,6 +34,7 @@ Bedrock Edition Exclusives:
 Java Edition Exclusives:
 	Crafting and furnace recipe toggle buttons are simpler.
 	Entity shadows are more pixel consistent.
+	New Splash Texts.
 
 --------------------------------------------------
 
