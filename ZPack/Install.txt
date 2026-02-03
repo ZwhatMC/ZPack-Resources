@@ -1,6 +1,6 @@
-Bedrock Edition Installation Guide
+ZPack Bedrock Edition Installation Guide
 
-Cut/Copy the "ZPack Bedrock 26" folder
+Cut/Copy the unzipped "ZPack.26-Bedrock" folder
 
 Open File Explorer, and in the address bar, enter %AppData%
 
@@ -12,9 +12,9 @@ All done, now your vanilla is better than ever!
 
 --------------------------------------------------
 
-Java Edition Installation Guide
+ZPack Java Edition Installation Guide
 
-Cut/Copy the "ZPack Java 26" folder
+Cut/Copy the unzipped "ZPack.26-Java" folder
 
 Open Minecraft: Java Edition with your preferred launcher
 
