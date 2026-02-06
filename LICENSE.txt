@@ -1,8 +1,8 @@
--- License for ZPack 26 --
+-- License for ZPack Vanilla 26 --
 
 
 Find information here:
-ZPack Vanilla Plus Resources, on Github.com:		[https://github.com/ZwhatMC/ZPack-Resources]
+ZPack Vanilla Resources, on Github.com:		[https://github.com/ZwhatMC/ZPack-Resources]
 ZwhatMC, on Github.com:					[https://github.com/ZwhatMC]
 
 
@@ -14,11 +14,11 @@ You are free to:
 - Adapt - remix, transform, and build upon the material.
 
 Under the following terms:
-- Attribution - Credit "ZwhatMC, creator of ZPack Vanilla Plus" and include a link to the license.
+- Attribution - Credit "ZwhatMC, creator of ZPack Vanilla" and include a link to the license.
 - No additional restrictions - Don’t apply legal terms or technological measures that restrict others.
 - NonCommercial - You may not use the material for commercial purposes.
 
 If changes are made, please clearly state so.
 
 
--- LICENSE for ZPack Vanilla Plus --
+-- LICENSE for ZPack Vanilla 26 --

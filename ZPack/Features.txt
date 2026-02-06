@@ -1,29 +1,25 @@
--- Feature list for ZPack 26 --
+-- Feature list for ZPack Vanilla 26 --
 
 
-Your vanilla, better than ever! - 26.0.8
+Your vanilla, better than ever! - 26.1.0
 --------------------------------------------------
 
 Main Features:
 	Hunger bar sprites are golden carrots.
 	Armour items are squarer, to match worn models.
-	Generic interface equipment sprites and icons are replaced with netherite ones.
+	Armour bar hud sprites are netherite.
 	Creeper is darker and leafier.
 	Music discs are circular.
 	Raw copper, copper ores, and raw copper block are unexposed.
 	Dyes are more detailed, and have their palettes removed.
 	Nautilus armour items are round, based on the nautilus shell.
 	Spear grips are coloured based on the material used for the spearhead.
-	All chests have a cascading darkness inside, instead of pure black.
-	Name tag has an iron loop to match its crafting recipe.
+	All chests have a fading darkness inside, instead of pure black.
 	Cyan Terracotta has its creeper face removed.
 	Mojangles font is better vertically justified.
 	Command blocks are symmetrical.
 	Brown bundles are brown!!
 	Tool and weapon items better than wooden have matching pommels.
-	Horse armour items are reversed to look inwards.
-	Many items face the top-right, to match what is most common.
-	Iron lantern matches others better.
 
 	Many other small, but important changes.
 
@@ -41,4 +37,4 @@ Java Edition Exclusives:
 --------------------------------------------------
 
 
--- Features for ZPack Vanilla Plus --
+-- Features for ZPack Vanilla 26 --

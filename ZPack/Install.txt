@@ -1,12 +1,12 @@
 ZPack Bedrock Edition Installation Guide
 
-Cut/Copy the unzipped "ZPack.26-Bedrock" folder
+Cut/Copy the unzipped "ZPack.26-Bedrock.x.x" folder
 
 Open File Explorer, and in the address bar, enter %AppData%
 
 Navigate to; > Roaming > Minecraft Bedrock > Users > Shared > games > com.mojang > resource_packs
 
-Paste the "ZPack Bedrock 26" folder & restart Minecraft: Bedrock Edition
+Paste the "ZPack.26-Bedrock.x.x" folder & restart Minecraft: Bedrock Edition
 
 All done, now your vanilla is better than ever!
 
@@ -14,12 +14,12 @@ All done, now your vanilla is better than ever!
 
 ZPack Java Edition Installation Guide
 
-Cut/Copy the unzipped "ZPack.26-Java" folder
+Cut/Copy the unzipped "ZPack.26-Java.x.x" folder
 
 Open Minecraft: Java Edition with your preferred launcher
 
 In Minecraft, select; Options, Resource Packs, "Open Pack Folder"
 
-Inside the file browser window, paste the "ZPack Java 26" folder.
+Inside the file browser window, paste the "ZPack.26-Java.x.x" folder.
 
 All done, now your vanilla is better than ever!

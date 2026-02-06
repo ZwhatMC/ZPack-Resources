@@ -1,21 +1,21 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Your vanilla, better than ever! (0-10)",
+        "description": "Your vanilla, better than ever! (2610)",
         "name": "ZPack 26",
-        "uuid": "8d28a44d-a5e5-4367-9959-cc70f2bf3159",
-        "version": [26, 0, 10],
+        "uuid": "74418833-0aa3-4812-b661-88aab12996fe",
+        "version": [26, 1, 0],
         "min_engine_version": [1, 21, 130]
     },
     "modules": [
         {
-            "description": "Your vanilla, better than ever! (0-10)",
+            "description": "Your vanilla, better than ever! (2610)",
             "type": "resources",
-            "uuid": "a67b6dc4-6b82-405c-bbc9-3a523fe801d8",
-            "version": [26, 0, 10]
+            "uuid": "dc429f5b-deb9-4e88-b4af-933d9361a817",
+            "version": [26, 1, 0]
         }
     ],
     "capabilities": [
         "pbr"
-    ],
+    ]
 }
