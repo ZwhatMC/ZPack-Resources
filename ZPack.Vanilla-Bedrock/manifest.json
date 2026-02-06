@@ -1,15 +1,15 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Your vanilla, better than ever! (2610)",
-        "name": "ZPack 26",
+        "description": "Your vanilla, better than ever! (v.1.0)",
+        "name": "ZPack Vanilla 26",
         "uuid": "74418833-0aa3-4812-b661-88aab12996fe",
         "version": [26, 1, 0],
         "min_engine_version": [1, 21, 130]
     },
     "modules": [
         {
-            "description": "Your vanilla, better than ever! (2610)",
+            "description": "Your vanilla, better than ever! (v.1.0)",
             "type": "resources",
             "uuid": "dc429f5b-deb9-4e88-b4af-933d9361a817",
             "version": [26, 1, 0]
