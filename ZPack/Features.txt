@@ -1,7 +1,7 @@
 -- Feature list for ZPack Vanilla 26 --
 
 
-Your vanilla, better than ever! - 26.1.0
+Your vanilla, better than ever! - 26.1.1
 --------------------------------------------------
 
 Main Features:
@@ -30,7 +30,7 @@ Bedrock Edition Exclusives:
 	
 
 Java Edition Exclusives:
-	Crafting and furnace recipe toggle buttons are simpler.
+	Crafting and furnace recipe toggles match Bedrock.
 	Entity shadows are more pixel consistent.
 	New Splash Texts.
 
