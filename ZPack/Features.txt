@@ -1,7 +1,7 @@
 -- Feature list for ZPack Vanilla 26 --
 
 
-Your vanilla, better than ever! - 26.1.1
+Your vanilla, better than ever! - 26.12
 --------------------------------------------------
 
 Main Features:
@@ -20,17 +20,15 @@ Main Features:
 	Command blocks are symmetrical.
 	Brown bundles are brown!!
 	Tool and weapon items better than wooden have matching pommels.
-
+	Craftable toggles are consistent between versions.
+	
 	Many other small, but important changes.
 
 Bedrock Edition Exclusives:
 	Redstone torches are red and have no outline, to closer match the other torches.
 	Bed item colours better matches placed texture.
-	Vibrant Visuals compatibility.
 	
-
 Java Edition Exclusives:
-	Crafting and furnace recipe toggles match Bedrock.
 	Entity shadows are more pixel consistent.
 	New Splash Texts.
 

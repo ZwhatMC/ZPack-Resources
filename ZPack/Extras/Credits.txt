@@ -1,0 +1,12 @@
+-- Credits for ZPack --
+
+
+Pack creator & maintainer: ZwhatMC.
+Artwork: Derived from the works of Mojang AB, modified and/or replaced by ZwhatMC.
+
+Consultation: James H.M.
+
+Special thanks: Mike Ammerlaan (Mojang), Default-Java (Faithful-Pack) team.
+
+
+-- Credits for ZPack Vanilla 26 --
