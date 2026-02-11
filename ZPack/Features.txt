@@ -1,7 +1,7 @@
 -- Feature list for ZPack Vanilla 26 --
 
 
-Your vanilla, better than ever! - 26.12
+Your vanilla, better than ever! - 26.13
 --------------------------------------------------
 
 Main Features:
@@ -21,6 +21,9 @@ Main Features:
 	Brown bundles are brown!!
 	Tool and weapon items better than wooden have matching pommels.
 	Craftable toggles are consistent between versions.
+	Item frame items are square.
+	Hopper item is more accurate to placed block.
+	Brick & nether brick item textures match their blocks better.
 	
 	Many other small, but important changes.
 
