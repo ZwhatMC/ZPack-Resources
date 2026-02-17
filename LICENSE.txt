@@ -3,7 +3,7 @@
 
 Find information here:
 ZPack Vanilla Resources, on Github.com:		[https://github.com/ZwhatMC/ZPack-Resources]
-ZwhatMC, on Github.com:					[https://github.com/ZwhatMC]
+ZwhatMC, on Github.com:				[https://github.com/ZwhatMC]
 
 
 Licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)

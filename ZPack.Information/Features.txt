@@ -1,7 +1,7 @@
 -- Feature list for ZPack Vanilla 26 --
 
 
-Your vanilla, better than ever! - 26.13
+Your vanilla, better than ever! - 26.14
 --------------------------------------------------
 
 Main Features:
@@ -24,6 +24,7 @@ Main Features:
 	Item frame items are square.
 	Hopper item is more accurate to placed block.
 	Brick & nether brick item textures match their blocks better.
+	Beacon beam is more pixel consistent
 	
 	Many other small, but important changes.
 
