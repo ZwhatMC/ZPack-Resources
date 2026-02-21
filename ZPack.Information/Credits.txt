@@ -6,7 +6,7 @@ Artwork: Derived from the works of Mojang AB, modified and/or replaced by ZwhatM
 
 Consultation: James H.M.
 
-Special thanks: Mike Ammerlaan (Mojang), Default-Java (Faithful-Pack) team.
+Special thanks: Mike Ammerlaan (Mojang) & Default-Java (Faithful-Pack) team.
 
 
 -- Credits for ZPack Vanilla 26 --

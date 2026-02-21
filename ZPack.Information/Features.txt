@@ -1,36 +1,36 @@
--- Feature list for ZPack Vanilla 26 --
+-- Feature list for ZPack Vanilla --
 
 
-Your vanilla, better than ever! - 26.14
+Your vanilla, better than ever! - 26.15
 --------------------------------------------------
 
 Main Features:
 	Hunger bar sprites are golden carrots.
-	Armour items are squarer, to match worn models.
+	Armour items are squarer, to better match worn models.
 	Armour bar hud sprites are netherite.
 	Creeper is darker and leafier.
 	Music discs are circular.
-	Raw copper, copper ores, and raw copper block are unexposed.
-	Dyes are more detailed, and have their palettes removed.
-	Nautilus armour items are round, based on the nautilus shell.
 	Spear grips are coloured based on the material used for the spearhead.
-	All chests have a fading darkness inside, instead of pure black.
+	Raw copper, copper ores, and raw copper block are unexposed.
+	Nautilus armour items are round, based on the nautilus shell.
+	Dyes are more detailed, and have their palettes removed.
 	Cyan Terracotta has its creeper face removed.
-	Mojangles font is better vertically justified.
 	Command blocks are symmetrical.
-	Brown bundles are brown!!
+	Crafting & furnace toggles are consistent between versions.
+	Brown bundles are acutally brown.
+	Beacon beam is more pixel consistent.
 	Tool and weapon items better than wooden have matching pommels.
-	Craftable toggles are consistent between versions.
-	Item frame items are square.
-	Hopper item is more accurate to placed block.
-	Brick & nether brick item textures match their blocks better.
-	Beacon beam is more pixel consistent
+	Item frame items better match placed block.
+	Hopper & Cauldron items are more accurate to placed blocks.
+	Brick & nether brick item better match crafted blocks.
+	Redstone repeater and comparator items better match placed block.
+	All chests have a fading darkness inside, instead of pure black.
 	
 	Many other small, but important changes.
 
 Bedrock Edition Exclusives:
-	Redstone torches are red and have no outline, to closer match the other torches.
-	Bed item colours better matches placed texture.
+	Redstone torches are red and have no outline, to better match the other torches.
+	Bed item colours better matches placed blocks.
 	
 Java Edition Exclusives:
 	Entity shadows are more pixel consistent.
