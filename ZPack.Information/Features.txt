@@ -1,7 +1,7 @@
 -- Feature list for ZPack Vanilla --
 
 
-Your vanilla, better than ever! - 26.15
+Your vanilla, better than ever! - 26.16
 --------------------------------------------------
 
 Main Features:
@@ -14,7 +14,7 @@ Main Features:
 	Raw copper, copper ores, and raw copper block are unexposed.
 	Nautilus armour items are round, based on the nautilus shell.
 	Dyes are more detailed, and have their palettes removed.
-	Cyan Terracotta has its creeper face removed.
+	Cyan Glaazed Terracotta has its creeper face removed.
 	Command blocks are symmetrical.
 	Crafting & furnace toggles are consistent between versions.
 	Brown bundles are acutally brown.
