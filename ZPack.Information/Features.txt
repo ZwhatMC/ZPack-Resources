@@ -1,7 +1,7 @@
 -- Feature list for ZPack Vanilla --
 
 
-Your vanilla, better than ever! - 26.16
+Your vanilla, better than ever! - 26.17
 --------------------------------------------------
 
 Main Features:
@@ -24,7 +24,8 @@ Main Features:
 	Hopper & Cauldron items are more accurate to placed blocks.
 	Brick & nether brick item better match crafted blocks.
 	Redstone repeater and comparator items better match placed block.
-	All chests have a fading darkness inside, instead of pure black.
+	Chests & barrel have a fading darkness inside, instead of a flat colour.
+	Spyglass & brush item textures better match their recipes.
 	
 	Many other small, but important changes.
 
