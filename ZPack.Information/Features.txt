@@ -1,13 +1,12 @@
 -- Feature list for ZPack Vanilla --
 
 
-Your vanilla, better than ever! - 26.17
+Your vanilla, better than ever! - #ZPackVanilla
 --------------------------------------------------
 
 Main Features:
 	Hunger bar sprites are golden carrots.
 	Armour items are squarer, to better match worn models.
-	Armour bar hud sprites are netherite.
 	Creeper is darker and leafier.
 	Music discs are circular.
 	Spear grips are coloured based on the material used for the spearhead.
@@ -26,16 +25,18 @@ Main Features:
 	Redstone repeater and comparator items better match placed block.
 	Chests & barrel have a fading darkness inside, instead of a flat colour.
 	Spyglass & brush item textures better match their recipes.
+	New Splash Texts.
+	+Optional Paintings to replace unpacked & dennis!
 	
 	Many other small, but important changes.
 
 Bedrock Edition Exclusives:
 	Redstone torches are red and have no outline, to better match the other torches.
 	Bed item colours better matches placed blocks.
+	Silenced weak hit sound effect to match Java.
 	
 Java Edition Exclusives:
 	Entity shadows are more pixel consistent.
-	New Splash Texts.
 
 --------------------------------------------------
 
