@@ -1,4 +1,4 @@
--- License for ZPack Vanilla 26 --
+-- License for ZPack --
 
 
 Find information here:
@@ -21,4 +21,4 @@ Under the following terms:
 If changes are made, please clearly state so.
 
 
--- LICENSE for ZPack Vanilla 26 --
+-- LICENSE for ZPack Vanilla: Bedrock & Java --

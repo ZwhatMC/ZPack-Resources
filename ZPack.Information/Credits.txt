@@ -9,4 +9,4 @@ Consultation: James H.M.
 Special Thanks: Mike Ammerlaan (Mojang) & Default-Java (Faithful-Pack) team.
 
 
--- Credits for ZPack Vanilla 26 --
+-- Credits for ZPack Vanilla: Bedrock & Java --

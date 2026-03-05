@@ -1,2 +1,2 @@
 dennis.png -> "Flash the Cat"
-unpackedpng - "Z-Packed"
+unpackedpng - "ZPacked"

@@ -1,6 +1,6 @@
-ZPack Vanilla for Bedrock Installation Guide:
+ZPack Vanilla: Bedrock Installation Guide:
 
-Cut/Copy the unzipped "Bedrock-2x.xx" folder.
+Cut/Copy the unzipped "Bedrock-xx.xx" folder.
 
 Open File Explorer, and in the address bar, enter "%AppData%".
 
@@ -12,9 +12,9 @@ All done, your vanilla is now better than ever!
 
 --------------------------------------------------
 
-ZPack Vanilla for Java Installation Guide:
+ZPack Vanilla: Java Installation Guide:
 
-Cut/Copy the unzipped "Java-2x.xx" folder.
+Cut/Copy the unzipped "Java-xx.xx" folder.
 
 Open Minecraft: Java Edition with your preferred launcher.
 

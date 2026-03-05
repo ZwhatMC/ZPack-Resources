@@ -1,4 +1,4 @@
--- Feature list for ZPack Vanilla --
+-- Feature list for ZPack --
 
 
 Your vanilla, better than ever! - #ZPackVanilla
@@ -13,20 +13,22 @@ Main Features:
 	Raw copper, copper ores, and raw copper block are unexposed.
 	Nautilus armour items are round, based on the nautilus shell.
 	Dyes are more detailed, and have their palettes removed.
-	Cyan Glaazed Terracotta has its creeper face removed.
-	Command blocks are symmetrical.
+	Cyan Glazed Terracotta has its creeper face removed.
+	Command blocks are more symmetrical.
 	Crafting & furnace toggles are consistent between versions.
-	Brown bundles are acutally brown.
+	Brown bundles are actually brown.
 	Beacon beam is more pixel consistent.
 	Tool and weapon items better than wooden have matching pommels.
-	Item frame items better match placed block.
-	Hopper & Cauldron items are more accurate to placed blocks.
+	Held item frames better match placed block-entities.
+	Hopper & Cauldron items better match placed blocks.
 	Brick & nether brick item better match crafted blocks.
 	Redstone repeater and comparator items better match placed block.
 	Chests & barrel have a fading darkness inside, instead of a flat colour.
 	Spyglass & brush item textures better match their recipes.
 	New Splash Texts.
-	+Optional Paintings to replace unpacked & dennis!
+	TNT side label is removed.
+	Dark oak leaves differ from oak leaves.
+	+Optional Paintings to replace Unpacked & Dennis!
 	
 	Many other small, but important changes.
 
@@ -41,4 +43,4 @@ Java Edition Exclusives:
 --------------------------------------------------
 
 
--- Features for ZPack Vanilla 26 --
+-- Features for ZPack Vanilla: Bedrock & Java --
