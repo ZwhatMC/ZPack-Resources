@@ -1,0 +1,9 @@
+Optional: Replacement Paintings
+
+Names;
+dennis.png -> "Flash the Cat"
+unpackedpng - "ZPacked"
+
+Location;
+	For Bedrock: (/textures/painting/)
+	For Java: (/assets/minecraft/textures/painting/)

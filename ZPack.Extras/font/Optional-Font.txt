@@ -1,0 +1,6 @@
+Optional: Modified Mojangles Font
+
+default8: For Bedrock;
+	Location: (/font/default8.png)
+Ascii: For Java;
+	Location: (/assets/minecraft/textures/font/ascii.png)

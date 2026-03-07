@@ -2,7 +2,7 @@
     "format_version": 2,
     "header": {
         "description": "Your vanilla, now better than ever!",
-        "name": "ZPack Vanilla 26",
+        "name": "ZPack Vanilla",
         "uuid": "74418833-0aa3-4812-b661-88aab12996fe",
         "version": [1, 26, 19],
         "min_engine_version": [1, 26, 0]

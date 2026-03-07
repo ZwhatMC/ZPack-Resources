@@ -29,6 +29,7 @@ Main Features:
 	TNT side label is removed.
 	Dark oak leaves differ from oak leaves.
 	+Optional Paintings to replace Unpacked & Dennis!
+	+Optional Modified Font
 	
 	Many other small, but important changes.
 
