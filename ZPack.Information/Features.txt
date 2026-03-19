@@ -26,20 +26,22 @@ Main Features:
 	Chests & barrel have a fading darkness inside, instead of a flat colour.
 	Spyglass & brush item textures better match their recipes.
 	New Splash Texts.
-	TNT side label is removed.
+	TNT label is removed.
 	Dark oak leaves differ from oak leaves.
-	+Optional Paintings to replace Unpacked & Dennis!
-	+Optional Modified Font
+	Beacon pyramid level interface sprites are more accurate and include more colours.
 	
 	Many other small, but important changes.
 
 Bedrock Edition Exclusives:
 	Redstone torches are red and have no outline, to better match the other torches.
 	Bed item colours better matches placed blocks.
-	Silenced weak hit sound effect to match Java.
 	
 Java Edition Exclusives:
 	Entity shadows are more pixel consistent.
+	
+Optional Plus! Exclusives:
+    Paintings to replace Unpacked & Dennis!
+	Modified Vanilla Font
 
 --------------------------------------------------
 

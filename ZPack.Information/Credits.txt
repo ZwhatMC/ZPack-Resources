@@ -5,8 +5,10 @@ Pack creator & maintainer: ZwhatMC.
 Artwork: Derived from the works of Mojang AB, modified and/or replaced by ZwhatMC.
 
 Consultation: James H.M.
+Additional Splash texts;
+	"wub wub is power!": u/Killerallen & Donnie.
 
-Special Thanks: Mike Ammerlaan (Mojang) & Default-Java (Faithful-Pack) team.
+Personal Thanks: Mike Ammerlaan (Mojang/Bedrock-Samples) & Those behind Default-Java (Faithful-Pack).
 
 
 -- Credits for ZPack Vanilla: Bedrock & Java --

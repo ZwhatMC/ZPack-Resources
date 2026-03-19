@@ -4,7 +4,7 @@
         "description": "Your vanilla, now better than ever!",
         "name": "ZPack Vanilla",
         "uuid": "74418833-0aa3-4812-b661-88aab12996fe",
-        "version": [1, 26, 19],
+        "version": [1, 26, 21],
         "min_engine_version": [1, 26, 0]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "Your vanilla, now better than ever!",
             "type": "resources",
             "uuid": "dc429f5b-deb9-4e88-b4af-933d9361a817",
-            "version": [1, 26, 19]
+            "version": [1, 26, 21]
         }
     ],
     "capabilities": [

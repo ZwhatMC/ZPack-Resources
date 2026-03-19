@@ -1,8 +1,10 @@
+ZPack Vanilla Plus! - By ZwhatMC
+
 Optional: Replacement Paintings
 
 Names;
-dennis.png -> "Flash the Cat"
-unpackedpng - "ZPacked"
+    dennis.png: "Flash the Cat"
+    unpacked.png: "ZPacked"
 
 Location;
 	For Bedrock: (/textures/painting/)
