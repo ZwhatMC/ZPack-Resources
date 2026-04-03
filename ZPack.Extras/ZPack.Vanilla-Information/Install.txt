@@ -1,11 +1,13 @@
+Compatibility;
+    Bedrock: Minimum engine version = 1.26.0, Capable of PBR (Vibrant Visuals)
+    Java: Minimum pack format = 70.0, Maximum pack format = 100.0
+    Updated for BE 26.10 & JE 26.1
+
+
 ZPack Vanilla: Bedrock Installation Guide:
-
 Cut/Copy the unzipped "Bedrock-xx.xx" folder.
-
 Open File Explorer, and in the address bar, enter "%AppData%".
-
 Navigate to; > "Roaming > Minecraft Bedrock > Users > Shared > games > com.mojang > resource_packs".
-
 Paste the folder from your clipboard & restart Minecraft: Bedrock Edition.
 
 All done, your vanilla is now better than ever!
@@ -13,13 +15,9 @@ All done, your vanilla is now better than ever!
 --------------------------------------------------
 
 ZPack Vanilla: Java Installation Guide:
-
 Cut/Copy the unzipped "Java-xx.xx" folder.
-
 Open Minecraft: Java Edition with your preferred launcher.
-
 In Minecraft, select; Options, Resource Packs, "Open Pack Folder".
-
 Inside the file browser window, paste the folder from your clipboard.
 
 All done, now your vanilla is better than ever!

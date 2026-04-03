@@ -6,7 +6,7 @@ Your vanilla, better than ever! - #ZPackVanilla
 
 Main Features:
 	Hunger bar sprites are golden carrots.
-	Armour items are squarer, to better match worn models.
+	Armour items are squared off, to better match worn models.
 	Creeper is darker and leafier.
 	Music discs are circular.
 	Spear grips are coloured based on the material used for the spearhead.
@@ -14,7 +14,7 @@ Main Features:
 	Nautilus armour items are round, based on the nautilus shell.
 	Dyes are more detailed, and have their palettes removed.
 	Cyan Glazed Terracotta has its creeper face removed.
-	Command blocks are more symmetrical.
+	Command blocks are symmetrical.
 	Crafting & furnace toggles are consistent between versions.
 	Brown bundles are actually brown.
 	Beacon beam is more pixel consistent.
@@ -23,25 +23,28 @@ Main Features:
 	Hopper & Cauldron items better match placed blocks.
 	Brick & nether brick item better match crafted blocks.
 	Redstone repeater and comparator items better match placed block.
-	Chests & barrel have a fading darkness inside, instead of a flat colour.
+	Chests & barrel have a gradual darkness inside, instead of a flat black.
 	Spyglass & brush item textures better match their recipes.
 	New Splash Texts.
 	TNT label is removed.
 	Dark oak leaves differ from oak leaves.
 	Beacon pyramid level interface sprites are more accurate and include more colours.
 	
-	Many other small, but important changes.
+	Many other small, important changes.
 
-Bedrock Edition Exclusives:
-	Redstone torches are red and have no outline, to better match the other torches.
-	Bed item colours better matches placed blocks.
+Bedrock Edition Exclusives;
+	Feature: Redstone torches are red and have no outline, to better match the other torches.
+	Fix: Bed item colours better matches placed blocks.
+	Fix: Renamed pause menu option "Browse Add-Ons!" to "Marketplace" in GB & US English.
+	Fix: Consistent music disc item name dashes in GB English. (Fixes inconsistent font)
+	Fix: Concrete will appear far less noisy in Vibrant Visuals.
 	
-Java Edition Exclusives:
-	Entity shadows are more pixel consistent.
+Java Edition Exclusives;
+	Feature: Entity shadows are more pixel consistent.
 	
-Optional Plus! Exclusives:
-    Paintings to replace Unpacked & Dennis!
-	Modified Vanilla Font
+Optional Plus! Exclusives;
+    Paintings to replace Unpacked & Dennis respectively.
+	Modified Vanilla Font.
 
 --------------------------------------------------
 

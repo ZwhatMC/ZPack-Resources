@@ -1,0 +1,15 @@
+-- Credits for ZPack --
+
+
+Pack creator & maintainer: ZwhatMC.
+Artwork: Derived from the works of Mojang AB, modified (Heavily or minimally).
+
+Consultation: James H.M.
+Additional Splash texts;
+	"wub wub is power!": u/Killerallen, in honour of Donnie.
+	"#2ThumbsUp4Ben!": kings.jester.02, in honour of Ben.
+
+Derivative Thanks: Mike Ammerlaan (Mojang/Bedrock-Samples) & Those behind Default-Java (Faithful-Pack).
+
+
+-- Credits for ZPack Vanilla: Bedrock & Java --
