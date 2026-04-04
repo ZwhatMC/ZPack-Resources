@@ -1,9 +1,16 @@
 -- Feature list for ZPack --
 
 
-Your vanilla, better than ever! - #ZPackVanilla
+Your vanilla, better than ever! - ZPack Vanilla, & Plus!
 --------------------------------------------------
 
+Changes in v26.23;
+    Updated dark oak leaves to appear as a green version of pale leaves.
+    Updated Light Grey and Cyan Dyes.
+    Updated Flower Pot.
+    Plus: Added 1 new painting to replace "Meditative".
+    Plus: Added unique title logo including "plus" in the subtitle.
+    
 Main Features:
 	Hunger bar sprites are golden carrots.
 	Armour items are squared off, to better match worn models.
@@ -33,7 +40,7 @@ Main Features:
 	Many other small, important changes.
 
 Bedrock Edition Exclusives;
-	Feature: Redstone torches are red and have no outline, to better match the other torches.
+	Feature: Redstone torches are red and have no outline, to better match other torches.
 	Fix: Bed item colours better matches placed blocks.
 	Fix: Renamed pause menu option "Browse Add-Ons!" to "Marketplace" in GB & US English.
 	Fix: Consistent music disc item name dashes in GB English. (Fixes inconsistent font)
@@ -42,8 +49,8 @@ Bedrock Edition Exclusives;
 Java Edition Exclusives;
 	Feature: Entity shadows are more pixel consistent.
 	
-Optional Plus! Exclusives;
-    Paintings to replace Unpacked & Dennis respectively.
+Optional "Plus!" Exclusives;
+    Unique paintings to replace Unpacked, Dennis, and Meditative.
 	Modified Vanilla Font.
 
 --------------------------------------------------

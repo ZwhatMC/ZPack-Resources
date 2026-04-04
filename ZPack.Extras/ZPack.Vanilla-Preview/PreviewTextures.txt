@@ -1,2 +1,2 @@
 item.leaf_litter
-    Leaf litter item is more sparse to match the amount of leaves placed per use.
+    Held leaf litter is more sparse to match the amount of leaves placed per item.

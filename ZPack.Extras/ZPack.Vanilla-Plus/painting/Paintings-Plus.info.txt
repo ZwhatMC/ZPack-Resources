@@ -5,6 +5,7 @@ Optional: Replacement Paintings
 Names;
     dennis.png: "Flash the Cat"
     unpacked.png: "ZPacked"
+    meditative: "Blue Tinted Nostalgia"
 
 Location;
 	For Bedrock: (/textures/painting/)
