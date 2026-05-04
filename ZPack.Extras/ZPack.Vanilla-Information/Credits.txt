@@ -2,7 +2,7 @@
 
 
 Pack creator & maintainer: ZwhatMC.
-Artwork: Derived from the works of Mojang AB, modified (Heavily or minimally).
+Artwork: Derived from the works of Mojang AB, modified, or entirely replaced by ZwhatMC.
 
 Consultation: James H.M.
 Additional Splash texts;

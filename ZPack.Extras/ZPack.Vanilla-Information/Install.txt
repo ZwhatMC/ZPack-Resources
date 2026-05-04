@@ -1,8 +1,6 @@
 Compatibility;
-    Bedrock: Minimum engine version = 1.26.0, Capable of PBR (Vibrant Visuals)
-    Java: Minimum pack format = 70.0, Maximum pack format = 100.0
-    Updated for BE 26.10 & JE 26.1
-
+    Bedrock: Will support engine version 1.26.0+
+    Java: Will support pack format 70.0+
 
 ZPack Vanilla: Bedrock Installation Guide:
 Cut/Copy the unzipped "Bedrock-xx.xx" folder.
@@ -21,3 +19,5 @@ In Minecraft, select; Options, Resource Packs, "Open Pack Folder".
 Inside the file browser window, paste the folder from your clipboard.
 
 All done, now your vanilla is better than ever!
+
+If you're reading this, feel free to request a version of the pack for any version of Minecraft post-Texture Update, it'd be my pleasure to oblige.

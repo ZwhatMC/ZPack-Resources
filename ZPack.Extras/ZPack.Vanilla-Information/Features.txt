@@ -4,12 +4,11 @@
 Your vanilla, better than ever! - ZPack Vanilla, & Plus!
 --------------------------------------------------
 
-Changes in v26.23;
-    Updated dark oak leaves to appear as a green version of pale leaves.
-    Updated Light Grey and Cyan Dyes.
-    Updated Flower Pot.
-    Plus: Added 1 new painting to replace "Meditative".
-    Plus: Added unique title logo including "plus" in the subtitle.
+Changes in v26.24;
+    Updated splash texts. - (I CAN'T STOP ADDING SPLASH TEXTS HELP)
+    Updated some dye positions.
+    Added leaf litter.
+    Added temperate and cold baby pigs.
     
 Main Features:
 	Hunger bar sprites are golden carrots.
@@ -36,6 +35,7 @@ Main Features:
 	TNT label is removed.
 	Dark oak leaves differ from oak leaves.
 	Beacon pyramid level interface sprites are more accurate and include more colours.
+	Leaf litter item contains less leaves to match the amount placed per use.
 	
 	Many other small, important changes.
 
