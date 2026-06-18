@@ -5,4 +5,4 @@ Replace these under Root/Common/res/TitleUpdate/res
 Remove terrainMipMapLevel2 & TerrainMipMapLevel3
     -This will make the textures appear consistent at each viewable distance
     
-For Zwhat, maybe find out how to make a texture pack instead of this jank.
+P.S, Zwhat, maybe find out how to make a texture pack instead of this jank.
