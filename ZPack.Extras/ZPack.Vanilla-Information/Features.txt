@@ -3,12 +3,6 @@
 
 Your vanilla, better than ever! - ZPack Vanilla, & Plus!
 --------------------------------------------------
-
-Changes in v26.24;
-    Updated splash texts. - (I CAN'T STOP ADDING SPLASH TEXTS HELP)
-    Updated some dye positions.
-    Added leaf litter.
-    Added temperate and cold baby pigs.
     
 Main Features:
 	Hunger bar sprites are golden carrots.
@@ -42,8 +36,8 @@ Main Features:
 Bedrock Edition Exclusives;
 	Feature: Redstone torches are red and have no outline, to better match other torches.
 	Fix: Bed item colours better matches placed blocks.
-	Fix: Renamed pause menu option "Browse Add-Ons!" to "Marketplace" in GB & US English.
-	Fix: Consistent music disc item name dashes in GB English. (Fixes inconsistent font)
+	Fix: Renamed in-game menu option "Browse Add-Ons!" to "Marketplace" in GB & US English.
+	Fix: Consistent music disc item name dashes in GB English. (Fixes inconsistent font & missing dash)
 	Fix: Concrete will appear far less noisy in Vibrant Visuals.
 	
 Java Edition Exclusives;
