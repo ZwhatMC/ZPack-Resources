@@ -1,0 +1,8 @@
+items.png & terrain.png
+
+Replace these under Root/Common/res/TitleUpdate/res
+    -Root may be named "LCEWindows64" by default.
+Remove terrainMipMapLevel2 & TerrainMipMapLevel3
+    -This will make the textures appear consistent at a distance.
+    
+P.S, Zwhat, maybe find out how to make a texture pack instead of this jank garbage... or not.

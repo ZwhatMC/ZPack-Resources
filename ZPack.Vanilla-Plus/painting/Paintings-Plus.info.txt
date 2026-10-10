@@ -5,7 +5,7 @@ Optional: Replacement Paintings
 Names;
     Dennis: "Flash the Cat"
     Unpacked: "ZPacked"
-    Meditative: "Blue Tinted Nostalgia"
+    Meditative: "Sunset Blue Rose"
 
 Location;
 	For Bedrock: (/textures/painting/)

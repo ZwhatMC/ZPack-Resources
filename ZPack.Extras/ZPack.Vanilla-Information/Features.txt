@@ -6,7 +6,7 @@ Your vanilla, better than ever! - ZPack Vanilla, & Plus!
     
 Main Features:
 	Hunger bar sprites are golden carrots.
-	Armour items are squared off, to better match worn models.
+	Armour items & elytra are squarer, to better match worn models.
 	Creeper is darker and leafier.
 	Music discs are circular.
 	Spear grips are coloured based on the material used for the spearhead.
@@ -29,7 +29,9 @@ Main Features:
 	TNT label is removed.
 	Dark oak leaves differ from oak leaves.
 	Beacon pyramid level interface sprites are more accurate and include more colours.
-	Leaf litter item contains less leaves to match the amount placed per use.
+	Leaf litter item contains less leaves to match placed tile.
+	Poplar Leaves look nicer when transparent leaves is set to off.
+	Nether Bricks are consistent with Brick... bricks.
 	
 	Many other small, important changes.
 
@@ -39,6 +41,7 @@ Bedrock Edition Exclusives;
 	Fix: Renamed in-game menu option "Browse Add-Ons!" to "Marketplace" in GB & US English.
 	Fix: Consistent music disc item name dashes in GB English. (Fixes inconsistent font & missing dash)
 	Fix: Concrete will appear far less noisy in Vibrant Visuals.
+	Fix: Netherite Spear MERS looks less.. bad.
 	
 Java Edition Exclusives;
 	Feature: Entity shadows are more pixel consistent.

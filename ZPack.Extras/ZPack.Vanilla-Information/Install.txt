@@ -1,5 +1,5 @@
 Compatibility;
-    Bedrock: Will support engine version 1.26.0+
+    Bedrock: Will support engine version 1.26.0+, with Vibrant Visuals
     Java: Will support pack format 70.0+
 
 ZPack Vanilla: Bedrock Installation Guide:
