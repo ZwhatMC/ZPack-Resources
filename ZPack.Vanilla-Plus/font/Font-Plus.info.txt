@@ -1,6 +1,6 @@
 ZPack Vanilla Plus! - By ZwhatMC
 
-Optional: Modified Mojangles Font
+Optional: Modified Mojangles 8x5 Font
 
 default8: For Bedrock
 	Location: (/font/default8.png)

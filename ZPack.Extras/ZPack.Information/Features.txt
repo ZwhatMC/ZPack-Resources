@@ -14,12 +14,12 @@ Main Features:
 	Nautilus armour items are round, based on the nautilus shell.
 	Dyes are more detailed, and have their palettes removed.
 	Cyan Glazed Terracotta has its creeper face removed.
-	Command blocks are symmetrical.
+	Command blocks are symmetrical, based on a 16x texture instead of a 17x one.
 	Crafting & furnace toggles are consistent between versions.
 	Brown bundles are actually brown.
 	Beacon beam is more pixel consistent.
-	Tool and weapon items better than wooden have matching pommels.
-	Held item frames better match placed block-entities.
+	Tool and weapon items above wood have matching material pommels.
+	Held item frames better match placed block.
 	Hopper & Cauldron items better match placed blocks.
 	Brick & nether brick item better match crafted blocks.
 	Redstone repeater and comparator items better match placed block.
@@ -29,15 +29,16 @@ Main Features:
 	TNT label is removed.
 	Dark oak leaves differ from oak leaves.
 	Beacon pyramid level interface sprites are more accurate and include more colours.
-	Leaf litter item contains less leaves to match placed tile.
-	Poplar Leaves look nicer when transparent leaves is set to off.
-	Nether Bricks are consistent with Brick... bricks.
+	Leaf litter item contains less leaves to better match placed tile.
+	Poplar Leaves look nicer when leaves are opaque.
+	Nether bricks are consistent with brick... bricks.
+	Slightly darkened "white" tulip, due to it crafting light grey dye.
 	
-	Many other small, important changes.
+	Many other small, important changes. (Things I forgot to list...)
 
 Bedrock Edition Exclusives;
 	Feature: Redstone torches are red and have no outline, to better match other torches.
-	Fix: Bed item colours better matches placed blocks.
+	Fix: White bed item colour better matches placed block.
 	Fix: Renamed in-game menu option "Browse Add-Ons!" to "Marketplace" in GB & US English.
 	Fix: Consistent music disc item name dashes in GB English. (Fixes inconsistent font & missing dash)
 	Fix: Concrete will appear far less noisy in Vibrant Visuals.
